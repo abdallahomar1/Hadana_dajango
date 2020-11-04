@@ -1,0 +1,33 @@
+{% extends 'student/base.html' %} {% block body %}
+
+<h1>معلومات الطالب</h1>
+<div id="all_students">
+    <div class="alert alert-primary" role="alert">
+        الاسم :{{onestudent.name}}
+    </div>
+    <div class="alert alert-secondary" role="alert">
+        السن : {{onestudent.Age}}
+    </div>
+    <div class="alert alert-success" role="alert">
+        المبلغ المدفوع: {{onestudent.amount_paid}}
+    </div>
+    <div class="alert alert-danger" role="alert">
+        المبلف المتبقي: {{onestudent.Remaining_amount}}
+    </div>
+    <div class="alert alert-warning" role="alert">
+        {{onestudent.Time_add|date:'d M o'}} :وقت التقديم
+    </div>
+    <div class="alert alert-info" role="alert">
+        الفصل :{{onestudent.yourclass}}
+    </div>
+    <div class="alert alert-light" role="alert">
+        رقم الوالد: {{onestudent.phone_father}}
+    </div>
+    <div class="sudent_img">
+        <img class="alert alert-dark" id="img" src="{{onestudent.imag.url}}">
+    </div>
+</div>
+
+
+
+{% endblock body %}
