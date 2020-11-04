@@ -21,3 +21,15 @@ class classstudent(models.Model):
 
     def __str__(self):
         return self.name
+
+
+class masrofat(models.Model):
+    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=("التصنيف"))
+    des_masrofat =  models.CharField(max_length=95, verbose_name=("وصف المستلزم"))
+    price_masrofat = models.IntegerField(verbose_name=("سعر المستلزم"))
+
+    def __str__(self):
+        return self.des_masrofat
+
+class Category_masrof(models.Model):
+    name = models.CharField(max_length=50, verbose_name=("اسم التصنيف"))

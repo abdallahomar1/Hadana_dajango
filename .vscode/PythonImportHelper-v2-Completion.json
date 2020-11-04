@@ -188,6 +188,28 @@
         }
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -223,6 +245,28 @@
     },
     {
         "label": "classstudent",
+        "importPath": "student.models",
+        "description": "student.models",
+        "isExtraImport": true,
+        "detail": "student.models",
+        "documentation": {
+            "value": "\n```python\nimport student.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "masrofat",
+        "importPath": "student.models",
+        "description": "student.models",
+        "isExtraImport": true,
+        "detail": "student.models",
+        "documentation": {
+            "value": "\n```python\nimport student.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Category_masrof",
         "importPath": "student.models",
         "description": "student.models",
         "isExtraImport": true,
@@ -590,6 +634,18 @@
         }
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "student.migrations.0004_category_masrof_masrofat",
+        "description": "student.migrations.0004_category_masrof_masrofat",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0003_auto_20201103_1654'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category_masrof',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50, verbose_name='اسم التصنيف')),",
+        "detail": "student.migrations.0004_category_masrof_masrofat",
+        "documentation": {
+            "value": "\n```python\nfrom student.migrations.0004_category_masrof_masrofat import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0003_auto_20201103_1654'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category_masrof',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50, verbose_name='اسم التصنيف')),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "StudentConfig",
         "kind": 6,
         "importPath": "student.apps",
@@ -618,10 +674,34 @@
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class classstudent(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم الفصل\"))\n    classtecher = models.CharField(max_length=50, verbose_name=(\"معلمة الفصل\"))\n    def __str__(self):\n        return self.name",
+        "peekOfCode": "class classstudent(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم الفصل\"))\n    classtecher = models.CharField(max_length=50, verbose_name=(\"معلمة الفصل\"))\n    def __str__(self):\n        return self.name\nclass masrofat(models.Model):\n    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=(\"التصنيف\"))\n    des_masrofat =  models.CharField(max_length=95, verbose_name=(\"وصف المستلزم\"))\n    price_masrofat = models.IntegerField(verbose_name=(\"سعر المستلزم\"))\n    def __str__(self):",
         "detail": "student.models",
         "documentation": {
-            "value": "\n```python\nfrom student.models import classstudent\n```\n\n```python\n\n\n```\n\n```python\nclass classstudent(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم الفصل\"))\n    classtecher = models.CharField(max_length=50, verbose_name=(\"معلمة الفصل\"))\n    def __str__(self):\n        return self.name\n```\n",
+            "value": "\n```python\nfrom student.models import classstudent\n```\n\n```python\n\n\n```\n\n```python\nclass classstudent(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم الفصل\"))\n    classtecher = models.CharField(max_length=50, verbose_name=(\"معلمة الفصل\"))\n    def __str__(self):\n        return self.name\nclass masrofat(models.Model):\n    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=(\"التصنيف\"))\n    des_masrofat =  models.CharField(max_length=95, verbose_name=(\"وصف المستلزم\"))\n    price_masrofat = models.IntegerField(verbose_name=(\"سعر المستلزم\"))\n    def __str__(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "masrofat",
+        "kind": 6,
+        "importPath": "student.models",
+        "description": "student.models",
+        "peekOfCode": "class masrofat(models.Model):\n    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=(\"التصنيف\"))\n    des_masrofat =  models.CharField(max_length=95, verbose_name=(\"وصف المستلزم\"))\n    price_masrofat = models.IntegerField(verbose_name=(\"سعر المستلزم\"))\n    def __str__(self):\n        return self.des_masrofat\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))",
+        "detail": "student.models",
+        "documentation": {
+            "value": "\n```python\nfrom student.models import masrofat\n```\n\n```python\n\n\n```\n\n```python\nclass masrofat(models.Model):\n    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=(\"التصنيف\"))\n    des_masrofat =  models.CharField(max_length=95, verbose_name=(\"وصف المستلزم\"))\n    price_masrofat = models.IntegerField(verbose_name=(\"سعر المستلزم\"))\n    def __str__(self):\n        return self.des_masrofat\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Category_masrof",
+        "kind": 6,
+        "importPath": "student.models",
+        "description": "student.models",
+        "peekOfCode": "class Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))",
+        "detail": "student.models",
+        "documentation": {
+            "value": "\n```python\nfrom student.models import Category_masrof\n```\n\n```python\n\n\n```\n\n```python\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n```\n",
             "supportThemeIcons": false
         }
     },
