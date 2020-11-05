@@ -5,7 +5,7 @@ from django.db import models
 class Student(models.Model):
     name = models.CharField(max_length=50, verbose_name=("الاسم"))
     Age = models.IntegerField(verbose_name=("السن"))
-    amount_paid = models.DecimalField(max_digits=5, decimal_places=2, verbose_name=("المبلغ المدفوع"))
+    amount_paid = models.IntegerField()
     imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=("الصورة"))
     Remaining_amount = models.IntegerField(verbose_name=("المبلغ المتبقي"))
     Time_add = models.DateTimeField(auto_now=True, verbose_name=("وقت التقديم"))
@@ -33,3 +33,6 @@ class masrofat(models.Model):
 
 class Category_masrof(models.Model):
     name = models.CharField(max_length=50, verbose_name=("اسم التصنيف"))
+
+    def __str__(self):
+        return self.name

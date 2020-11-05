@@ -210,6 +210,28 @@
         }
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -306,6 +328,17 @@
         "detail": "django.shortcuts",
         "documentation": {
             "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -646,6 +679,30 @@
         }
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "student.migrations.0005_auto_20201105_1147",
+        "description": "student.migrations.0005_auto_20201105_1147",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0004_category_masrof_masrofat'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='amount_paid',\n            field=models.IntegerField(),\n        ),",
+        "detail": "student.migrations.0005_auto_20201105_1147",
+        "documentation": {
+            "value": "\n```python\nfrom student.migrations.0005_auto_20201105_1147 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0004_category_masrof_masrofat'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='amount_paid',\n            field=models.IntegerField(),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "arbah",
+        "kind": 6,
+        "importPath": "student.all_rebh_hadana",
+        "description": "student.all_rebh_hadana",
+        "peekOfCode": "class arbah(int):\n    wared =  Student.amount_paid\n    sader = masrofat.price_masrofat\n    #safe = wared - sader",
+        "detail": "student.all_rebh_hadana",
+        "documentation": {
+            "value": "\n```python\nfrom student.all_rebh_hadana import arbah\n```\n\n```python\n\n\n```\n\n```python\nclass arbah(int):\n    wared =  Student.amount_paid\n    sader = masrofat.price_masrofat\n    #safe = wared - sader\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "StudentConfig",
         "kind": 6,
         "importPath": "student.apps",
@@ -662,10 +719,10 @@
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"الاسم\"))\n    Age = models.IntegerField(verbose_name=(\"السن\"))\n    amount_paid = models.DecimalField(max_digits=5, decimal_places=2, verbose_name=(\"المبلغ المدفوع\"))\n    imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=(\"الصورة\"))\n    Remaining_amount = models.IntegerField(verbose_name=(\"المبلغ المتبقي\"))\n    Time_add = models.DateTimeField(auto_now=True, verbose_name=(\"وقت التقديم\"))\n    yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    phone_father = models.IntegerField(verbose_name=(\"رقم هاتف الوالد\"))\n    def __str__(self):",
+        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"الاسم\"))\n    Age = models.IntegerField(verbose_name=(\"السن\"))\n    amount_paid = models.IntegerField()\n    imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=(\"الصورة\"))\n    Remaining_amount = models.IntegerField(verbose_name=(\"المبلغ المتبقي\"))\n    Time_add = models.DateTimeField(auto_now=True, verbose_name=(\"وقت التقديم\"))\n    yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    phone_father = models.IntegerField(verbose_name=(\"رقم هاتف الوالد\"))\n    def __str__(self):",
         "detail": "student.models",
         "documentation": {
-            "value": "\n```python\nfrom student.models import Student\n```\n\n```python\n\n\n```\n\n```python\nclass Student(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"الاسم\"))\n    Age = models.IntegerField(verbose_name=(\"السن\"))\n    amount_paid = models.DecimalField(max_digits=5, decimal_places=2, verbose_name=(\"المبلغ المدفوع\"))\n    imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=(\"الصورة\"))\n    Remaining_amount = models.IntegerField(verbose_name=(\"المبلغ المتبقي\"))\n    Time_add = models.DateTimeField(auto_now=True, verbose_name=(\"وقت التقديم\"))\n    yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    phone_father = models.IntegerField(verbose_name=(\"رقم هاتف الوالد\"))\n    def __str__(self):\n```\n",
+            "value": "\n```python\nfrom student.models import Student\n```\n\n```python\n\n\n```\n\n```python\nclass Student(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"الاسم\"))\n    Age = models.IntegerField(verbose_name=(\"السن\"))\n    amount_paid = models.IntegerField()\n    imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=(\"الصورة\"))\n    Remaining_amount = models.IntegerField(verbose_name=(\"المبلغ المتبقي\"))\n    Time_add = models.DateTimeField(auto_now=True, verbose_name=(\"وقت التقديم\"))\n    yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    phone_father = models.IntegerField(verbose_name=(\"رقم هاتف الوالد\"))\n    def __str__(self):\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -686,10 +743,10 @@
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class masrofat(models.Model):\n    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=(\"التصنيف\"))\n    des_masrofat =  models.CharField(max_length=95, verbose_name=(\"وصف المستلزم\"))\n    price_masrofat = models.IntegerField(verbose_name=(\"سعر المستلزم\"))\n    def __str__(self):\n        return self.des_masrofat\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))",
+        "peekOfCode": "class masrofat(models.Model):\n    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=(\"التصنيف\"))\n    des_masrofat =  models.CharField(max_length=95, verbose_name=(\"وصف المستلزم\"))\n    price_masrofat = models.IntegerField(verbose_name=(\"سعر المستلزم\"))\n    def __str__(self):\n        return self.des_masrofat\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n    def __str__(self):\n        return self.name",
         "detail": "student.models",
         "documentation": {
-            "value": "\n```python\nfrom student.models import masrofat\n```\n\n```python\n\n\n```\n\n```python\nclass masrofat(models.Model):\n    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=(\"التصنيف\"))\n    des_masrofat =  models.CharField(max_length=95, verbose_name=(\"وصف المستلزم\"))\n    price_masrofat = models.IntegerField(verbose_name=(\"سعر المستلزم\"))\n    def __str__(self):\n        return self.des_masrofat\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n```\n",
+            "value": "\n```python\nfrom student.models import masrofat\n```\n\n```python\n\n\n```\n\n```python\nclass masrofat(models.Model):\n    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=(\"التصنيف\"))\n    des_masrofat =  models.CharField(max_length=95, verbose_name=(\"وصف المستلزم\"))\n    price_masrofat = models.IntegerField(verbose_name=(\"سعر المستلزم\"))\n    def __str__(self):\n        return self.des_masrofat\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n    def __str__(self):\n        return self.name\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -698,10 +755,10 @@
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))",
+        "peekOfCode": "class Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n    def __str__(self):\n        return self.name",
         "detail": "student.models",
         "documentation": {
-            "value": "\n```python\nfrom student.models import Category_masrof\n```\n\n```python\n\n\n```\n\n```python\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n```\n",
+            "value": "\n```python\nfrom student.models import Category_masrof\n```\n\n```python\n\n\n```\n\n```python\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n    def __str__(self):\n        return self.name\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -710,10 +767,10 @@
         "kind": 5,
         "importPath": "student.urls",
         "description": "student.urls",
-        "peekOfCode": "app_name = 'student'\nurlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail')\n]",
+        "peekOfCode": "app_name = 'student'\nurlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail'),\n    path('rebh', views.rebh)\n]",
         "detail": "student.urls",
         "documentation": {
-            "value": "\n```python\nfrom student.urls import app_name\n```\n\n```python\n\n\n```\n\n```python\napp_name = 'student'\nurlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail')\n]\n```\n",
+            "value": "\n```python\nfrom student.urls import app_name\n```\n\n```python\n\n\n```\n\n```python\napp_name = 'student'\nurlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail'),\n    path('rebh', views.rebh)\n]\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -722,10 +779,10 @@
         "kind": 5,
         "importPath": "student.urls",
         "description": "student.urls",
-        "peekOfCode": "urlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail')\n]",
+        "peekOfCode": "urlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail'),\n    path('rebh', views.rebh)\n]",
         "detail": "student.urls",
         "documentation": {
-            "value": "\n```python\nfrom student.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail')\n]\n```\n",
+            "value": "\n```python\nfrom student.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail'),\n    path('rebh', views.rebh)\n]\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -746,10 +803,22 @@
         "kind": 2,
         "importPath": "student.views",
         "description": "student.views",
-        "peekOfCode": "def student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n    return render(request, 'student/student.html', context)",
+        "peekOfCode": "def student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n    return render(request, 'student/student.html', context)\ndef rebh(request):\n    #student_Quotient = masrofat.objects.all()\n    #data = Student.objects.aggregate(Sum('amount_paid')) #Student.objects.aggregate(Sum('amount_paid'))\n    var1 = request.GET(Student.amount_paid)\n    context = {'hasel_students':data}",
         "detail": "student.views",
         "documentation": {
-            "value": "\n```python\nfrom student.views import student_one\n```\n\n```python\n\n\n```\n\n```python\ndef student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n    return render(request, 'student/student.html', context)\n```\n",
+            "value": "\n```python\nfrom student.views import student_one\n```\n\n```python\n\n\n```\n\n```python\ndef student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n    return render(request, 'student/student.html', context)\ndef rebh(request):\n    #student_Quotient = masrofat.objects.all()\n    #data = Student.objects.aggregate(Sum('amount_paid')) #Student.objects.aggregate(Sum('amount_paid'))\n    var1 = request.GET(Student.amount_paid)\n    context = {'hasel_students':data}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "rebh",
+        "kind": 2,
+        "importPath": "student.views",
+        "description": "student.views",
+        "peekOfCode": "def rebh(request):\n    #student_Quotient = masrofat.objects.all()\n    #data = Student.objects.aggregate(Sum('amount_paid')) #Student.objects.aggregate(Sum('amount_paid'))\n    var1 = request.GET(Student.amount_paid)\n    context = {'hasel_students':data}\n    return render(request, 'student/hasel.html', context)",
+        "detail": "student.views",
+        "documentation": {
+            "value": "\n```python\nfrom student.views import rebh\n```\n\n```python\n\n\n```\n\n```python\ndef rebh(request):\n    #student_Quotient = masrofat.objects.all()\n    #data = Student.objects.aggregate(Sum('amount_paid')) #Student.objects.aggregate(Sum('amount_paid'))\n    var1 = request.GET(Student.amount_paid)\n    context = {'hasel_students':data}\n    return render(request, 'student/hasel.html', context)\n```\n",
             "supportThemeIcons": false
         }
     },
