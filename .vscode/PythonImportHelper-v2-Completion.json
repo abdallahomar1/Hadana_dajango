@@ -803,10 +803,10 @@
         "kind": 2,
         "importPath": "student.views",
         "description": "student.views",
-        "peekOfCode": "def student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n    return render(request, 'student/student.html', context)\ndef rebh(request):\n    #student_Quotient = masrofat.objects.all()\n    #data = Student.objects.aggregate(Sum('amount_paid')) #Student.objects.aggregate(Sum('amount_paid'))\n    var1 = request.GET(Student.amount_paid)\n    context = {'hasel_students':data}",
+        "peekOfCode": "def student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n    return render(request, 'student/student.html', context)\ndef rebh(request):\n    pass",
         "detail": "student.views",
         "documentation": {
-            "value": "\n```python\nfrom student.views import student_one\n```\n\n```python\n\n\n```\n\n```python\ndef student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n    return render(request, 'student/student.html', context)\ndef rebh(request):\n    #student_Quotient = masrofat.objects.all()\n    #data = Student.objects.aggregate(Sum('amount_paid')) #Student.objects.aggregate(Sum('amount_paid'))\n    var1 = request.GET(Student.amount_paid)\n    context = {'hasel_students':data}\n```\n",
+            "value": "\n```python\nfrom student.views import student_one\n```\n\n```python\n\n\n```\n\n```python\ndef student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n    return render(request, 'student/student.html', context)\ndef rebh(request):\n    pass\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -815,10 +815,10 @@
         "kind": 2,
         "importPath": "student.views",
         "description": "student.views",
-        "peekOfCode": "def rebh(request):\n    #student_Quotient = masrofat.objects.all()\n    #data = Student.objects.aggregate(Sum('amount_paid')) #Student.objects.aggregate(Sum('amount_paid'))\n    var1 = request.GET(Student.amount_paid)\n    context = {'hasel_students':data}\n    return render(request, 'student/hasel.html', context)",
+        "peekOfCode": "def rebh(request):\n    pass",
         "detail": "student.views",
         "documentation": {
-            "value": "\n```python\nfrom student.views import rebh\n```\n\n```python\n\n\n```\n\n```python\ndef rebh(request):\n    #student_Quotient = masrofat.objects.all()\n    #data = Student.objects.aggregate(Sum('amount_paid')) #Student.objects.aggregate(Sum('amount_paid'))\n    var1 = request.GET(Student.amount_paid)\n    context = {'hasel_students':data}\n    return render(request, 'student/hasel.html', context)\n```\n",
+            "value": "\n```python\nfrom student.views import rebh\n```\n\n```python\n\n\n```\n\n```python\ndef rebh(request):\n    pass\n```\n",
             "supportThemeIcons": false
         }
     },
