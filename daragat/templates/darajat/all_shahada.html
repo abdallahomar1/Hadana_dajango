@@ -1,0 +1,14 @@
+{% extends 'student/base.html' %} {% block body %}
+{% for shahada in shahada %}
+<style>
+.all_student {
+    margin-left: 50%;
+    margin-right: 9%;
+    margin-top: 20px;
+}
+</style>
+<div class="alert alert-primary all_student" id="all_students">
+    <a href="">{{shahada.name_name}}</a>
+</div>
+{% endfor %}
+{% endblock %}

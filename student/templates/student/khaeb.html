@@ -1,0 +1,71 @@
+{% extends 'student/base.html' %} {% block body %}
+{% load bootstrap4 %}
+<style>
+.all_student {
+    margin-left: 60%;
+    margin-right: 8%;
+    margin-top: 20px;
+}
+.dropdown {
+  margin: 30px;
+  margin-right:40px;
+  background-color: #343a40;
+  margin: 22px;
+  color: #fff;
+}
+.myform {
+  padding: 20px;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+</style>
+
+<label for="start">Start date:</label>
+
+<input type="date" id="start" name="trip-start"
+       value="2018-07-22"
+       min="2018-01-01" max="2018-12-31">
+
+<div class="dropdown">
+    <form method="get">
+      <div class="row col container myform">
+        {% csrf_token %}
+        {{kaeb_filter.form}}
+          <input type="submit" value="بحث " class="btn btn-outline-success my-2 my-sm-0">
+      </div>
+      </form>
+  </div>
+  <!-- start tabal -->
+  <div class="container">
+  <table class="table">
+    <thead class="thead-dark">
+      <tr>
+        <th scope="col">id</th>
+        <th scope="col">الاسم</th>
+        <th scope="col">الفصل</th>
+        <th scope="col">اليوم</th>
+        <th scope="col">بعذر ام لا</th>
+      </tr>
+    </thead>
+    {% for kaeb in all_keyab %}
+    <tbody>
+      <tr>
+        <th scope="row">{{kaeb.id}}</th>
+        <td>{{kaeb.name_student}}</td>
+        <td>{{kaeb.name_class}}</td>
+        <td>{{kaeb.time|date:'d M o'}}</td>
+        <td>{{kaeb.Excuse}}</td>
+      </tr>
+    </tbody>
+
+    {% endfor %}
+</table>
+</div>
+{% endblock body %}

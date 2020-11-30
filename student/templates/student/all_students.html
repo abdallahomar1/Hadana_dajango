@@ -1,9 +1,52 @@
-{% extends 'student/base.html' %} {% block body %} {% for student in students %}
+{% extends 'student/base.html' %} {% block body %}
+{% for student in students %}
 
-<h3></h3>
-<div id="all_students" class="alert alert-primary" role="alert">
+<div class="alert alert-primary all_student" id="all_students">
     <a href="{% url 'all_url:student_datail' student.id %}">{{student}}</a>
 </div>
+{% endfor %}
 
+<style>
 
-{% endfor %} {% endblock body %}
+.my {
+    
+    display: flex;
+    flex-direction: column;
+    margin: 9px;
+    margin: auto;
+    width: 20%;
+    margin-top: 0px;
+    padding-left: 50%;
+}
+.all_student {
+  margin-left: 50%;
+  margin-right: 9%;
+  margin-top: 20px;
+}
+
+.div {
+  margin-right: 70%;
+  background-color: blanchedalmond;
+  padding: 9px;
+  text-align: start;
+  position: absolute;
+  left: 80px;
+  bottom: 20px;
+}
+</style>
+<div class="div border">
+<div class="container">
+    <div class="col">
+    <div class="my">
+<div class="dropdown">
+  <form method="get">
+  {{myfilter.form}}
+    <input type="submit" value="بحث " class="btn btn-outline-success my-2 my-sm-0">
+    </form>
+</div>
+   </div>
+   </div>
+</div>
+</div>
+{% endblock body %}
+

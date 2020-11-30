@@ -1,9 +1,11 @@
 from django.urls import path
-#from student.views import all_student, student_one
 from . import views
 app_name = 'student'
 urlpatterns = [
     path('', views.all_student),
     path('<int:id>', views.student_one, name='student_datail'),
-    path('rebh', views.rebh)
+    path('rebh', views.rebh),
+    path('employees', views.employees),
+    path('sadr/<int:id>', views.employees_one, name='employees'),
+    path('keyab', views.alkeyab)
 ]

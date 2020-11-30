@@ -1,0 +1,13 @@
+{% extends 'student/base.html' %} {% block body %}
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/new.css' %}">
+{% for ward in employees %}
+
+<div id="all_students"  class="alert alert-primary" role="alert">
+    <a href="{% url 'all_url:employees' ward.id %}">{{ward.des_masrofat}}</a>
+</div>
+
+
+{% endfor %}
+
+{% endblock body %}

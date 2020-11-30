@@ -1,26 +1,9 @@
-    html,
-    body {
-        direction: rtl;
-        text-align: center;
-    }
-    
-    #all_students {
-        margin-right: 50px;
-        margin-left: 50%;
-        margin-top: 30px;
-        text-align: right;
-    }
-    
-    #img {
-        width: 400px;
-        height: 500px;
-        text-align: center;
-    }
-    
-    #div_img {
-        margin: 2;
-    }
-    
-    .sudent_img {
-        text-align: center;
-    }
+html,
+body {
+    direction: rtl;
+    text-align: center;
+}
+
+.sudent_img {
+    text-align: center;
+}

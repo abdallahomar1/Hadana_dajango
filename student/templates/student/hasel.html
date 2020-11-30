@@ -1,5 +1,8 @@
-{% extends 'student/base.html' %} {% block body %} {% for rebhs in hasel_students %}
+{% extends 'student/base.html' %} {% block body %} {% load static %}
 
-<h2>{{rebhs}}</h2>
+<h2 id="sadr">صافي الربح: {{hasel}}</h2>
+<h1 id="ward">كل الوارد اي مجموع المبالغ التي دفعها الطلاب{{ward}}</h1>
+<h1 id="rebhs">كل المدفوعات{{sadr}}</h1>
+<h1>مجموع راتبات الاتوبيسات{{bus}}</h1>
 
-{% endfor %} {% endblock body %}
+{% endblock body %}

@@ -31,13 +31,17 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'student.app.SuitConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    "bootstrap4",
     'student',
+    'daragat',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
@@ -76,8 +80,12 @@ WSGI_APPLICATION = 'hadana.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'hadana',
+        'USER': 'postgres',
+        'PASSWORD': '002233',
+        'HOST': '127.0.0.1',
+        'PORT': '5432',
     }
 }
 
