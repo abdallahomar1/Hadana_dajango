@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from student.models import Absence
-from  . models import Student, classstudent, masrofat, Category_masrof , mawad, buses, Absence
+from  . models import Student, classstudent, masrofat, Category_masrof , mawad, Absence
 from django.db.models import Sum
 from .filters import filter, mybfilter
 from django.contrib.auth.decorators import login_required

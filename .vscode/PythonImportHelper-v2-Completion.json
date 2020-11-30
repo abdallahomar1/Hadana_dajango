@@ -22,193 +22,6 @@
         }
     },
     {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -287,6 +100,17 @@
     },
     {
         "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
         "importPath": "django.db",
         "description": "django.db",
         "isExtraImport": true,
@@ -629,7 +453,7 @@
         }
     },
     {
-        "label": "buses",
+        "label": "Absence",
         "importPath": "student.models",
         "description": "student.models",
         "isExtraImport": true,
@@ -640,7 +464,7 @@
         }
     },
     {
-        "label": "Absence",
+        "label": "hafela",
         "importPath": "student.models",
         "description": "student.models",
         "isExtraImport": true,
@@ -712,46 +536,10 @@
         "kind": 6,
         "importPath": "daragat.migrations.0001_initial",
         "description": "daragat.migrations.0001_initial",
-        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('student', '0010_auto_20201124_1927'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='daragat',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('student', '0005_remove_hafela_bus_student'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='daragat',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
         "detail": "daragat.migrations.0001_initial",
         "documentation": {
-            "value": "\n```python\nfrom daragat.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('student', '0010_auto_20201124_1927'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='daragat',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "daragat.migrations.0002_daragat_clas",
-        "description": "daragat.migrations.0002_daragat_clas",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0010_auto_20201124_1927'),\n        ('daragat', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='daragat',\n            name='clas',\n            field=models.ForeignKey(default='', on_delete=django.db.models.deletion.CASCADE, to='student.classstudent', verbose_name='اسم الفصل'),",
-        "detail": "daragat.migrations.0002_daragat_clas",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.migrations.0002_daragat_clas import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0010_auto_20201124_1927'),\n        ('daragat', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='daragat',\n            name='clas',\n            field=models.ForeignKey(default='', on_delete=django.db.models.deletion.CASCADE, to='student.classstudent', verbose_name='اسم الفصل'),\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "daragat.migrations.0003_auto_20201124_1941",
-        "description": "daragat.migrations.0003_auto_20201124_1941",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0002_daragat_clas'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='daragat',\n            name='athkar',\n            field=models.IntegerField(default=20, verbose_name='درجة مادة الاذكار'),\n        ),",
-        "detail": "daragat.migrations.0003_auto_20201124_1941",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.migrations.0003_auto_20201124_1941 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0002_daragat_clas'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='daragat',\n            name='athkar',\n            field=models.IntegerField(default=20, verbose_name='درجة مادة الاذكار'),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "daragat.migrations.0004_auto_20201124_1946",
-        "description": "daragat.migrations.0004_auto_20201124_1946",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0003_auto_20201124_1941'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='daragat',\n            old_name='name',\n            new_name='name_name',\n        ),",
-        "detail": "daragat.migrations.0004_auto_20201124_1946",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.migrations.0004_auto_20201124_1946 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0003_auto_20201124_1941'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='daragat',\n            old_name='name',\n            new_name='name_name',\n        ),\n```\n",
+            "value": "\n```python\nfrom daragat.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('student', '0005_remove_hafela_bus_student'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='daragat',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -1120,166 +908,58 @@
         "kind": 6,
         "importPath": "student.migrations.0001_initial",
         "description": "student.migrations.0001_initial",
-        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='classstudent',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50)),",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='buses',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50, verbose_name='اسم السائق')),",
         "detail": "student.migrations.0001_initial",
         "documentation": {
-            "value": "\n```python\nfrom student.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='classstudent',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50)),\n```\n",
+            "value": "\n```python\nfrom student.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='buses',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50, verbose_name='اسم السائق')),\n```\n",
             "supportThemeIcons": false
         }
     },
     {
         "label": "Migration",
         "kind": 6,
-        "importPath": "student.migrations.0002_student_img",
-        "description": "student.migrations.0002_student_img",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='student',\n            name='img',\n            field=models.ImageField(default='noimg.png', upload_to='studentsimg/'),\n        ),",
-        "detail": "student.migrations.0002_student_img",
+        "importPath": "student.migrations.0002_delete_buses",
+        "description": "student.migrations.0002_delete_buses",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0001_initial'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='buses',\n        ),\n    ]",
+        "detail": "student.migrations.0002_delete_buses",
         "documentation": {
-            "value": "\n```python\nfrom student.migrations.0002_student_img import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='student',\n            name='img',\n            field=models.ImageField(default='noimg.png', upload_to='studentsimg/'),\n        ),\n```\n",
+            "value": "\n```python\nfrom student.migrations.0002_delete_buses import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0001_initial'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='buses',\n        ),\n    ]\n```\n",
             "supportThemeIcons": false
         }
     },
     {
         "label": "Migration",
         "kind": 6,
-        "importPath": "student.migrations.0003_auto_20201103_1654",
-        "description": "student.migrations.0003_auto_20201103_1654",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0002_student_img'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='student',\n            name='img',\n        ),\n        migrations.AddField(",
-        "detail": "student.migrations.0003_auto_20201103_1654",
+        "importPath": "student.migrations.0003_hafela",
+        "description": "student.migrations.0003_hafela",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0002_delete_buses'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='hafela',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nem', models.CharField(max_length=50, verbose_name='اسم السائق')),",
+        "detail": "student.migrations.0003_hafela",
         "documentation": {
-            "value": "\n```python\nfrom student.migrations.0003_auto_20201103_1654 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0002_student_img'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='student',\n            name='img',\n        ),\n        migrations.AddField(\n```\n",
+            "value": "\n```python\nfrom student.migrations.0003_hafela import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0002_delete_buses'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='hafela',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nem', models.CharField(max_length=50, verbose_name='اسم السائق')),\n```\n",
             "supportThemeIcons": false
         }
     },
     {
         "label": "Migration",
         "kind": 6,
-        "importPath": "student.migrations.0004_category_masrof_masrofat",
-        "description": "student.migrations.0004_category_masrof_masrofat",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0003_auto_20201103_1654'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category_masrof',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50, verbose_name='اسم التصنيف')),",
-        "detail": "student.migrations.0004_category_masrof_masrofat",
+        "importPath": "student.migrations.0004_hafela_bus_student",
+        "description": "student.migrations.0004_hafela_bus_student",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0003_hafela'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='hafela',\n            name='bus_student',\n            field=models.ManyToManyField(to='student.Student', verbose_name='اطفال الحافلة'),\n        ),",
+        "detail": "student.migrations.0004_hafela_bus_student",
         "documentation": {
-            "value": "\n```python\nfrom student.migrations.0004_category_masrof_masrofat import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0003_auto_20201103_1654'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category_masrof',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50, verbose_name='اسم التصنيف')),\n```\n",
+            "value": "\n```python\nfrom student.migrations.0004_hafela_bus_student import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0003_hafela'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='hafela',\n            name='bus_student',\n            field=models.ManyToManyField(to='student.Student', verbose_name='اطفال الحافلة'),\n        ),\n```\n",
             "supportThemeIcons": false
         }
     },
     {
         "label": "Migration",
         "kind": 6,
-        "importPath": "student.migrations.0005_auto_20201105_1147",
-        "description": "student.migrations.0005_auto_20201105_1147",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0004_category_masrof_masrofat'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='amount_paid',\n            field=models.IntegerField(),\n        ),",
-        "detail": "student.migrations.0005_auto_20201105_1147",
+        "importPath": "student.migrations.0005_remove_hafela_bus_student",
+        "description": "student.migrations.0005_remove_hafela_bus_student",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0004_hafela_bus_student'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='hafela',\n            name='bus_student',\n        ),\n    ]",
+        "detail": "student.migrations.0005_remove_hafela_bus_student",
         "documentation": {
-            "value": "\n```python\nfrom student.migrations.0005_auto_20201105_1147 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0004_category_masrof_masrofat'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='amount_paid',\n            field=models.IntegerField(),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "student.migrations.0006_buses_mawad",
-        "description": "student.migrations.0006_buses_mawad",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0005_auto_20201105_1147'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='buses',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50, verbose_name='اسم السائق')),",
-        "detail": "student.migrations.0006_buses_mawad",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0006_buses_mawad import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0005_auto_20201105_1147'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='buses',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50, verbose_name='اسم السائق')),\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "student.migrations.0007_khaeb",
-        "description": "student.migrations.0007_khaeb",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0006_buses_mawad'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='khaeb',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('time', models.DateTimeField(auto_now=True)),",
-        "detail": "student.migrations.0007_khaeb",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0007_khaeb import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0006_buses_mawad'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='khaeb',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('time', models.DateTimeField(auto_now=True)),\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "student.migrations.0008_auto_20201118_1649",
-        "description": "student.migrations.0008_auto_20201118_1649",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0007_khaeb'),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name='khaeb',\n            new_name='Absence',\n        ),\n    ]",
-        "detail": "student.migrations.0008_auto_20201118_1649",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0008_auto_20201118_1649 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0007_khaeb'),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name='khaeb',\n            new_name='Absence',\n        ),\n    ]\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "student.migrations.0009_auto_20201119_1121",
-        "description": "student.migrations.0009_auto_20201119_1121",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0008_auto_20201118_1649'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='absence',\n            name='Reason',\n            field=models.TextField(verbose_name='العذر'),\n        ),",
-        "detail": "student.migrations.0009_auto_20201119_1121",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0009_auto_20201119_1121 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0008_auto_20201118_1649'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='absence',\n            name='Reason',\n            field=models.TextField(verbose_name='العذر'),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "student.migrations.0010_auto_20201124_1927",
-        "description": "student.migrations.0010_auto_20201124_1927",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0009_auto_20201119_1121'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='absence',\n            name='Reason',\n            field=models.TextField(null=True, verbose_name='العذر'),\n        ),",
-        "detail": "student.migrations.0010_auto_20201124_1927",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0010_auto_20201124_1927 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0009_auto_20201119_1121'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='absence',\n            name='Reason',\n            field=models.TextField(null=True, verbose_name='العذر'),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "custom",
-        "kind": 6,
-        "importPath": "student.admin",
-        "description": "student.admin",
-        "peekOfCode": "class custom(admin.ModelAdmin):\n    list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nadmin.site.register(Student, custom)\nadmin.site.register(Absence, AbsenceAdmin)\nadmin.site.register(classstudent)",
-        "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import custom\n```\n\n```python\n\n\n```\n\n```python\nclass custom(admin.ModelAdmin):\n    list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nadmin.site.register(Student, custom)\nadmin.site.register(Absence, AbsenceAdmin)\nadmin.site.register(classstudent)\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "AbsenceAdmin",
-        "kind": 6,
-        "importPath": "student.admin",
-        "description": "student.admin",
-        "peekOfCode": "class AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nadmin.site.register(Student, custom)\nadmin.site.register(Absence, AbsenceAdmin)\nadmin.site.register(classstudent)\nadmin.site.register(masrofat)\nadmin.site.register(Category_masrof)\nadmin.site.register(mawad)\nadmin.site.register(buses)",
-        "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import AbsenceAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nadmin.site.register(Student, custom)\nadmin.site.register(Absence, AbsenceAdmin)\nadmin.site.register(classstudent)\nadmin.site.register(masrofat)\nadmin.site.register(Category_masrof)\nadmin.site.register(mawad)\nadmin.site.register(buses)\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "admin.site.site_header",
-        "kind": 5,
-        "importPath": "student.admin",
-        "description": "student.admin",
-        "peekOfCode": "admin.site.site_header = 'abdallah'\nadmin.site.site_title = 'admin panal'\nclass custom(admin.ModelAdmin):\n    list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nadmin.site.register(Student, custom)",
-        "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import admin.site.site_header\n```\n\n```python\n\n\n```\n\n```python\nadmin.site.site_header = 'abdallah'\nadmin.site.site_title = 'admin panal'\nclass custom(admin.ModelAdmin):\n    list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nadmin.site.register(Student, custom)\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "admin.site.site_title",
-        "kind": 5,
-        "importPath": "student.admin",
-        "description": "student.admin",
-        "peekOfCode": "admin.site.site_title = 'admin panal'\nclass custom(admin.ModelAdmin):\n    list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nadmin.site.register(Student, custom)\nadmin.site.register(Absence, AbsenceAdmin)",
-        "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import admin.site.site_title\n```\n\n```python\n\n\n```\n\n```python\nadmin.site.site_title = 'admin panal'\nclass custom(admin.ModelAdmin):\n    list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nadmin.site.register(Student, custom)\nadmin.site.register(Absence, AbsenceAdmin)\n```\n",
+            "value": "\n```python\nfrom student.migrations.0005_remove_hafela_bus_student import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0004_hafela_bus_student'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='hafela',\n            name='bus_student',\n        ),\n    ]\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -1336,10 +1016,10 @@
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"الاسم\"))\n    Age = models.IntegerField(verbose_name=(\"السن\"))\n    amount_paid = models.IntegerField()\n    imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=(\"الصورة\"))\n    Remaining_amount = models.IntegerField(verbose_name=(\"المبلغ المتبقي\"))\n    Time_add = models.DateTimeField(auto_now=True, verbose_name=(\"وقت التقديم\"))\n    yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    phone_father = models.IntegerField(verbose_name=(\"رقم هاتف الوالد\"))\n    bus = models.ForeignKey(\"buses\", verbose_name=(\"الحافلة\"), on_delete=models.CASCADE)",
+        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"الاسم\"))\n    Age = models.IntegerField(verbose_name=(\"السن\"))\n    amount_paid = models.IntegerField(verbose_name=(\"المبلغ المدفوع\"))\n    imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=(\"الصورة\"))\n    Remaining_amount = models.IntegerField(verbose_name=(\"المبلغ المتبقي\"))\n    Time_add = models.DateTimeField(auto_now=True, verbose_name=(\"وقت التقديم\"))\n    yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    phone_father = models.IntegerField(verbose_name=(\"رقم هاتف الوالد\"))\n    class Meta:",
         "detail": "student.models",
         "documentation": {
-            "value": "\n```python\nfrom student.models import Student\n```\n\n```python\n\n\n```\n\n```python\nclass Student(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"الاسم\"))\n    Age = models.IntegerField(verbose_name=(\"السن\"))\n    amount_paid = models.IntegerField()\n    imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=(\"الصورة\"))\n    Remaining_amount = models.IntegerField(verbose_name=(\"المبلغ المتبقي\"))\n    Time_add = models.DateTimeField(auto_now=True, verbose_name=(\"وقت التقديم\"))\n    yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    phone_father = models.IntegerField(verbose_name=(\"رقم هاتف الوالد\"))\n    bus = models.ForeignKey(\"buses\", verbose_name=(\"الحافلة\"), on_delete=models.CASCADE)\n```\n",
+            "value": "\n```python\nfrom student.models import Student\n```\n\n```python\n\n\n```\n\n```python\nclass Student(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"الاسم\"))\n    Age = models.IntegerField(verbose_name=(\"السن\"))\n    amount_paid = models.IntegerField(verbose_name=(\"المبلغ المدفوع\"))\n    imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=(\"الصورة\"))\n    Remaining_amount = models.IntegerField(verbose_name=(\"المبلغ المتبقي\"))\n    Time_add = models.DateTimeField(auto_now=True, verbose_name=(\"وقت التقديم\"))\n    yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    phone_father = models.IntegerField(verbose_name=(\"رقم هاتف الوالد\"))\n    class Meta:\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -1372,10 +1052,10 @@
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n    class Meta:\n        verbose_name = _(\"تصنيفات المصروفات\")\n        verbose_name_plural = _(\"تصنيفات المصروفات\")\n    def __str__(self):\n        return self.name\nclass mawad(models.Model):\n    clas = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    name = models.CharField(max_length=50)",
+        "peekOfCode": "class Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n    class Meta:\n        verbose_name = _(\"تصنيفات المصروفات\")\n        verbose_name_plural = _(\"تصنيفات المصروفات\")\n    def __str__(self):\n        return self.name\nclass mawad(models.Model):\n    name = models.CharField(max_length=50)\n    class Meta:",
         "detail": "student.models",
         "documentation": {
-            "value": "\n```python\nfrom student.models import Category_masrof\n```\n\n```python\n\n\n```\n\n```python\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n    class Meta:\n        verbose_name = _(\"تصنيفات المصروفات\")\n        verbose_name_plural = _(\"تصنيفات المصروفات\")\n    def __str__(self):\n        return self.name\nclass mawad(models.Model):\n    clas = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    name = models.CharField(max_length=50)\n```\n",
+            "value": "\n```python\nfrom student.models import Category_masrof\n```\n\n```python\n\n\n```\n\n```python\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n    class Meta:\n        verbose_name = _(\"تصنيفات المصروفات\")\n        verbose_name_plural = _(\"تصنيفات المصروفات\")\n    def __str__(self):\n        return self.name\nclass mawad(models.Model):\n    name = models.CharField(max_length=50)\n    class Meta:\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -1384,22 +1064,10 @@
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class mawad(models.Model):\n    clas = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    name = models.CharField(max_length=50)\n    class Meta:\n        verbose_name = _(\"المواد\")\n        verbose_name_plural = _(\"المواد\")\n    def __str__(self):\n        return self.name\nclass buses(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم السائق\"))",
+        "peekOfCode": "class mawad(models.Model):\n    name = models.CharField(max_length=50)\n    class Meta:\n        verbose_name = _(\"المواد\")\n        verbose_name_plural = _(\"المواد\")\n    def __str__(self):\n        return self.name\nclass Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))",
         "detail": "student.models",
         "documentation": {
-            "value": "\n```python\nfrom student.models import mawad\n```\n\n```python\n\n\n```\n\n```python\nclass mawad(models.Model):\n    clas = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    name = models.CharField(max_length=50)\n    class Meta:\n        verbose_name = _(\"المواد\")\n        verbose_name_plural = _(\"المواد\")\n    def __str__(self):\n        return self.name\nclass buses(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم السائق\"))\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "buses",
-        "kind": 6,
-        "importPath": "student.models",
-        "description": "student.models",
-        "peekOfCode": "class buses(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم السائق\"))\n    id_id = models.CharField(max_length=50, verbose_name=(\"رقم الاتوبس\"))\n    salary = models.IntegerField(verbose_name=(\"السعر الشهري\"))\n    class Meta:\n        verbose_name = _(\"التوبيسات\")\n        verbose_name_plural = _(\"الحافلات\")\n    def __str__(self):\n        return self.name\nclass Absence(models.Model):",
-        "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nfrom student.models import buses\n```\n\n```python\n\n\n```\n\n```python\nclass buses(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم السائق\"))\n    id_id = models.CharField(max_length=50, verbose_name=(\"رقم الاتوبس\"))\n    salary = models.IntegerField(verbose_name=(\"السعر الشهري\"))\n    class Meta:\n        verbose_name = _(\"التوبيسات\")\n        verbose_name_plural = _(\"الحافلات\")\n    def __str__(self):\n        return self.name\nclass Absence(models.Model):\n```\n",
+            "value": "\n```python\nfrom student.models import mawad\n```\n\n```python\n\n\n```\n\n```python\nclass mawad(models.Model):\n    name = models.CharField(max_length=50)\n    class Meta:\n        verbose_name = _(\"المواد\")\n        verbose_name_plural = _(\"المواد\")\n    def __str__(self):\n        return self.name\nclass Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -1408,10 +1076,22 @@
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))\n    time = models.DateTimeField()  \n    Excuse = models.BooleanField(default=True, verbose_name=(\"بعذر ام لا\"))   \n    Reason = models.TextField(verbose_name=(\"العذر\"), null=True)\n    class Meta:\n        verbose_name = _(\"الغياب\")\n        verbose_name_plural = _(\"الغياب\")",
+        "peekOfCode": "class Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))\n    time = models.DateTimeField()  \n    Excuse = models.BooleanField(default=True, verbose_name=(\"بعذر ام لا\"))   \n    Reason = models.TextField(verbose_name=(\"العذر\"), null=True)\n    class Meta:\n        verbose_name = _(\"الغياب\")\n        verbose_name_plural = _(\"الغياب\")\nclass hafela(models.Model):",
         "detail": "student.models",
         "documentation": {
-            "value": "\n```python\nfrom student.models import Absence\n```\n\n```python\n\n\n```\n\n```python\nclass Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))\n    time = models.DateTimeField()  \n    Excuse = models.BooleanField(default=True, verbose_name=(\"بعذر ام لا\"))   \n    Reason = models.TextField(verbose_name=(\"العذر\"), null=True)\n    class Meta:\n        verbose_name = _(\"الغياب\")\n        verbose_name_plural = _(\"الغياب\")\n```\n",
+            "value": "\n```python\nfrom student.models import Absence\n```\n\n```python\n\n\n```\n\n```python\nclass Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))\n    time = models.DateTimeField()  \n    Excuse = models.BooleanField(default=True, verbose_name=(\"بعذر ام لا\"))   \n    Reason = models.TextField(verbose_name=(\"العذر\"), null=True)\n    class Meta:\n        verbose_name = _(\"الغياب\")\n        verbose_name_plural = _(\"الغياب\")\nclass hafela(models.Model):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "hafela",
+        "kind": 6,
+        "importPath": "student.models",
+        "description": "student.models",
+        "peekOfCode": "class hafela(models.Model):\n    nem = models.CharField(max_length=50, verbose_name=(\"اسم السائق\"))\n    bus_id = models.CharField(max_length=50, verbose_name=(\"رقم الحافلة\"))\n    bus_price = models.IntegerField(verbose_name=(\"السعر الشهري\"))\n    #bus_student = models.ManyToManyField(Student, verbose_name=(\"اطفال الحافلة\"), null=True)\n    def __str__(self):\n        return self.name",
+        "detail": "student.models",
+        "documentation": {
+            "value": "\n```python\nfrom student.models import hafela\n```\n\n```python\n\n\n```\n\n```python\nclass hafela(models.Model):\n    nem = models.CharField(max_length=50, verbose_name=(\"اسم السائق\"))\n    bus_id = models.CharField(max_length=50, verbose_name=(\"رقم الحافلة\"))\n    bus_price = models.IntegerField(verbose_name=(\"السعر الشهري\"))\n    #bus_student = models.ManyToManyField(Student, verbose_name=(\"اطفال الحافلة\"), null=True)\n    def __str__(self):\n        return self.name\n```\n",
             "supportThemeIcons": false
         }
     },

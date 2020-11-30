@@ -2,17 +2,16 @@ from django.db import models
 from django.utils.translation import ugettext_lazy as _
 
 # Create your models here.
-
 class Student(models.Model):
     name = models.CharField(max_length=50, verbose_name=("الاسم"))
     Age = models.IntegerField(verbose_name=("السن"))
-    amount_paid = models.IntegerField()
+    amount_paid = models.IntegerField(verbose_name=("المبلغ المدفوع"))
     imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=("الصورة"))
     Remaining_amount = models.IntegerField(verbose_name=("المبلغ المتبقي"))
     Time_add = models.DateTimeField(auto_now=True, verbose_name=("وقت التقديم"))
     yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=("الفصل"))
     phone_father = models.IntegerField(verbose_name=("رقم هاتف الوالد"))
-    bus = models.ForeignKey("buses", verbose_name=("الحافلة"), on_delete=models.CASCADE)
+    
 
     class Meta:
         verbose_name = _("الطلاب")
@@ -56,7 +55,6 @@ class Category_masrof(models.Model):
         return self.name
 
 class mawad(models.Model):
-    clas = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=("الفصل"))
     name = models.CharField(max_length=50)
 
     class Meta:
@@ -65,17 +63,7 @@ class mawad(models.Model):
 
     def __str__(self):
         return self.name
-class buses(models.Model):
-    name = models.CharField(max_length=50, verbose_name=("اسم السائق"))
-    id_id = models.CharField(max_length=50, verbose_name=("رقم الاتوبس"))
-    salary = models.IntegerField(verbose_name=("السعر الشهري"))
 
-    class Meta:
-        verbose_name = _("التوبيسات")
-        verbose_name_plural = _("الحافلات")
-
-    def __str__(self):
-        return self.name
 
 class Absence(models.Model):
     name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=("اسم الفصل")) 
@@ -87,3 +75,12 @@ class Absence(models.Model):
     class Meta:
         verbose_name = _("الغياب")
         verbose_name_plural = _("الغياب")
+
+class hafela(models.Model):
+    nem = models.CharField(max_length=50, verbose_name=("اسم السائق"))
+    bus_id = models.CharField(max_length=50, verbose_name=("رقم الحافلة"))
+    bus_price = models.IntegerField(verbose_name=("السعر الشهري"))
+    #bus_student = models.ManyToManyField(Student, verbose_name=("اطفال الحافلة"), null=True)
+
+    def __str__(self):
+        return self.name
