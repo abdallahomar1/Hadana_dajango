@@ -1,0 +1,115 @@
+{% extends 'student/base.html' %} {% block body %}
+{% load static %}
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{% static 'css\my_style.css' %}">
+    <style>
+        #name {
+            margin-top: 208px;
+            text-align: center;
+            margin-left: 750px;
+        }
+
+        .name {
+            margin-top: -105px;
+            padding-right: 80px;
+            margin-right: 150px;
+        }
+
+        #class {
+            position: absolute;
+            left: 550px;
+            top: 200px;
+        }
+
+        .class {
+            position: absolute;
+            left: 100px;
+            top: 0px;
+            right: 60px;
+        }
+
+        .mtm {
+            position: absolute;
+            left: 30px;
+            top: 0px;
+        }
+    </style>
+<div class="container ke">
+    <div class="m">
+        <h1 class="t">مبروك</h2><h2 class="r">النجاح</h1>
+        <h4 class="tx">شكر وتهنئة</h4>
+        <!-- <h3 class="name">الاسم </h3>
+        <h3 id="name">عبدالله عمر احمد</h3>
+        <h3 class="class">:الفصل</h3>
+        <h3 id="class">تمهيدي</h3> -->
+
+        <h3 class="name" style="width: 0px; ">الاسم: </h3>
+        <div class="mtm container">
+        <h3 id="name">الاسم {{shahada.name_name}} </h3>
+
+        <!-- <h3 class="class" style="margin-right: 80; right: 300px;">الفصل:  {{shahada.clas}}</h3> -->
+        <h3 id="class">الفصل {{shahada.clas}}</h3>
+        </div>
+        <!-- <h4 class="am" s>التقدير العام:</h4> -->
+        <h4 id="am">التقدير العام: ممتاز</h4>
+
+        <table border="5" align="center" width="200" height="30px">
+            <caption></caption>
+            <tr align="center">
+                <th>المادة</th>
+                <th>القران</th>
+                <th>الحديث</th>
+                <th>الاذكار</th>
+                <th>الاداب</th>
+                <th>نور البيان</th>
+                <th>اللغة الانجليزية</th>
+                <th>السيرة</th>
+                <th>العقيدة</th>
+                <th>الرياضيات</th>
+                <th>المجموع</th>
+            </tr>
+            <tbody>
+            <tr align="center">
+                <td>الدرجة النهائية</td>
+                <td>40</td>
+                <td>30</td>
+                <td>20</td>
+                <td>20</td>
+                <td>30</td>
+                <td>20</td>
+                <td>20</td>
+                <td>20</td>
+                <td>20</td>
+                <td>220</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr align="center">
+                <td>درجة الطالب</td>
+                <td>{{shahada.kuran}}</td>
+                <td>{{shahada.khades}}</td>
+                <td>{{shahada.athkar}}</td>
+                <td>{{shahada.adab}}</td>
+                <td>{{shahada.arabek}}</td>
+                <td>{{shahada.en}}</td>
+                <td>{{shahada.serah}}</td>
+                <td>{{shahada.akeda}}</td>
+                <td>{{shahada.math}}</td>
+                <td>{{shahada.majmoa}}</td>
+            </tr>
+        </tfoot>
+    </table>
+    <div class="img">
+        <img src="{% static 'img/5.png' %}" class="pr-5">
+    <img src="{% static 'img/6.png' %}" id="e">
+    <img src="{% static 'img/7.png' %}" class="pr-5">
+    <img src="{% static 'img/8.png' %}" class="pr-5">
+    <img src="{% static 'img/6.png' %}" id="r">
+
+    </div>
+    </div>
+</div>
+{% endblock body %}
+

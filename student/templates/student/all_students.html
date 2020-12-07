@@ -1,5 +1,9 @@
 {% extends 'student/base.html' %} {% block body %}
+
+<h1 style="text-align: center; margin: 30px;">عدد التلاميذ المسجلين {{students.count}} </h1>
+
 {% for student in students %}
+
 
 <div class="alert alert-primary all_student" id="all_students">
     <a href="{% url 'all_url:student_datail' student.id %}">{{student}}</a>
@@ -9,14 +13,14 @@
 <style>
 
 .my {
-    
     display: flex;
     flex-direction: column;
-    margin: 9px;
+    margin: 10px;
     margin: auto;
     width: 20%;
     margin-top: 0px;
     padding-left: 50%;
+    
 }
 .all_student {
   margin-left: 50%;
@@ -25,20 +29,25 @@
 }
 
 .div {
+  position: relative;
   margin-right: 70%;
+  padding: 10px;
   background-color: blanchedalmond;
-  padding: 9px;
-  text-align: start;
-  position: absolute;
+  text-align: center;
   left: 80px;
-  bottom: 20px;
+  bottom: -20px;
+  position: fixed;
+  position: absolute;
+  top: 65px;
 }
+
 </style>
-<div class="div border">
+<div class="parantes" style="width: 30px;">
+<div class="div">
 <div class="container">
     <div class="col">
     <div class="my">
-<div class="dropdown">
+<div class="dropdown" style="padding-bottom: 20px;">
   <form method="get">
   {{myfilter.form}}
     <input type="submit" value="بحث " class="btn btn-outline-success my-2 my-sm-0">
@@ -46,6 +55,7 @@
 </div>
    </div>
    </div>
+</div>
 </div>
 </div>
 {% endblock body %}

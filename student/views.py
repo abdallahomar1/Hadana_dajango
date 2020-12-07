@@ -1,10 +1,11 @@
 from django.shortcuts import render
 from student.models import Absence
-from  . models import Student, classstudent, masrofat, Category_masrof , mawad, Absence
+from daragat.models import daragat
+from  . models import Student, classstudent, masrofat, Category_masrof , mawad, Absence, hafela as buses, rateb
 from django.db.models import Sum
 from .filters import filter, mybfilter
 from django.contrib.auth.decorators import login_required
-
+from daragat.models import daragat
 # Create your views here.
 #@login_required
 def all_student(request):
@@ -25,11 +26,17 @@ def student_one(request, id):
 def rebh(request):
     paid = Student.objects.aggregate(Sum('amount_paid'))
     masrof = masrofat.objects.aggregate(Sum('price_masrofat'))
-    bus = buses.objects.aggregate(Sum('salary'))
-    new = bus['salary__sum'] * 3
+    bake = Student.objects.aggregate(Sum('Remaining_amount'))
+    bus = buses.objects.aggregate(Sum('bus_price'))
+    new = bus['bus_price__sum'] * 3
+    bakes = bake['Remaining_amount__sum'] * 1
+    masrofs = masrof['price_masrofat__sum'] * 1
+    paids = paid['amount_paid__sum'] * 1
+    myrateb = rateb.objects.aggregate(Sum('yuor_rateb'))
+    ratebs = myrateb['yuor_rateb__sum'] * 3
     remain = paid['amount_paid__sum'] - masrof['price_masrofat__sum']
     rebh = remain - new
-    return render(request, 'student/hasel.html', {'hasel':rebh, 'ward':paid, 'sadr':masrof, 'bus':new})
+    return render(request, 'student/hasel.html', {'hasel':rebh, 'ward':paids, 'sadr':masrofs, 'bus':new, 'bake':bakes, 'reteb':ratebs})
 
 def employees(request):
         employees = masrofat.objects.all()
@@ -49,3 +56,10 @@ def alkeyab(request):
         'all_keyab':khaeb, 'kaeb_filter':myfilter
     }
     return render(request, 'student/khaeb.html', context)
+
+def my(request, id):
+    shahada_one = daragat.objects.get(id=id)
+    context = {
+        'shahada':shahada_one
+    }
+    return render(request, 'darajat/shahada.html', context)

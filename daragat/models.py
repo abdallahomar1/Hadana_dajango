@@ -7,7 +7,7 @@ shahada_type = (
 ) 
 
 class daragat(models.Model):
-    kind = models.CharField(max_length=50, choices=shahada_type, verbose_name=("نوع الهادة"))
+    kind = models.CharField(max_length=50, choices=shahada_type, verbose_name=("نوع الشهادة"), null=True)
     name_name = models.ForeignKey("student.Student", on_delete=models.CASCADE, verbose_name=("الاسم"))
     clas = models.ForeignKey("student.classstudent", on_delete=models.CASCADE, verbose_name=("اسم الفصل"))
     kuran = models.IntegerField(default=40, verbose_name=("درجة القران الكريم"))
@@ -20,10 +20,13 @@ class daragat(models.Model):
     en = models.IntegerField(default=20, verbose_name=("درجة اللغة الانجليزية"))
     math = models.IntegerField(default=20, verbose_name=("درجة مادة الرياضيات"))
 
+    def majmoa(self):
+        majemoa = self.kuran + self.khades + self.arabek + self.serah + self.akeda + self.athkar + self.adab + self.en + self.math
+        return majemoa
+
     class Meta:
         verbose_name = _("الدرجات")
         verbose_name_plural = _("الدرجات")
 
     
-    def __str__(self):
-        return self.name_name
+    

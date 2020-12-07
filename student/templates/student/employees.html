@@ -1,6 +1,12 @@
 {% extends 'student/base.html' %} {% block body %}
 {% load static %}
-<link rel="stylesheet" type="text/css" href="{% static 'css/new.css' %}">
+<style>
+    #all_students {
+        margin-left: 50%;
+        margin-right: 9%;
+        margin-top: 50px;
+    }
+</style>
 {% for ward in employees %}
 
 <div id="all_students"  class="alert alert-primary" role="alert">

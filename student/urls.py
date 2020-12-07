@@ -7,5 +7,6 @@ urlpatterns = [
     path('rebh', views.rebh),
     path('employees', views.employees),
     path('sadr/<int:id>', views.employees_one, name='employees'),
-    path('keyab', views.alkeyab)
+    path('keyab', views.alkeyab),
+    path('myshahda/<int:id>', views.my, name='my'),
 ]

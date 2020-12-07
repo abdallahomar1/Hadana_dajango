@@ -3,14 +3,16 @@ from django.utils.translation import ugettext_lazy as _
 
 # Create your models here.
 class Student(models.Model):
-    name = models.CharField(max_length=50, verbose_name=("الاسم"))
+    name = models.CharField(max_length=50, verbose_name=("الاسم"), null=True)
+    numer = models.CharField(verbose_name=("الرقم القومي"), default=0, max_length=50)
     Age = models.IntegerField(verbose_name=("السن"))
     amount_paid = models.IntegerField(verbose_name=("المبلغ المدفوع"))
     imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=("الصورة"))
     Remaining_amount = models.IntegerField(verbose_name=("المبلغ المتبقي"))
     Time_add = models.DateTimeField(auto_now=True, verbose_name=("وقت التقديم"))
     yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=("الفصل"))
-    phone_father = models.IntegerField(verbose_name=("رقم هاتف الوالد"))
+    phone_father = models.CharField(verbose_name=("رقم هاتف الوالد"),max_length=50)
+    bus = models.ForeignKey("hafela", on_delete=models.CASCADE, verbose_name=("الحافلة"), null=True, blank=True)
     
 
     class Meta:
@@ -77,10 +79,17 @@ class Absence(models.Model):
         verbose_name_plural = _("الغياب")
 
 class hafela(models.Model):
-    nem = models.CharField(max_length=50, verbose_name=("اسم السائق"))
+    nam = models.CharField(max_length=50, verbose_name=("اسم السائق"))
     bus_id = models.CharField(max_length=50, verbose_name=("رقم الحافلة"))
     bus_price = models.IntegerField(verbose_name=("السعر الشهري"))
     #bus_student = models.ManyToManyField(Student, verbose_name=("اطفال الحافلة"), null=True)
 
     def __str__(self):
-        return self.name
+        return self.nam
+class rateb(models.Model):
+    name_techer = models.OneToOneField(classstudent, on_delete=models.CASCADE, verbose_name=("اسم المعلمة"))
+    yuor_rateb = models.IntegerField(verbose_name=("الراتب"))
+
+    class Meta:
+        verbose_name = _("الرواتب")
+        verbose_name_plural = _("الرواتب")
