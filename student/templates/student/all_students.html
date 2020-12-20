@@ -1,7 +1,10 @@
 {% extends 'student/base.html' %} {% block body %}
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
 
+<div class="container">
+  <div  class="hidden-md col-lg-12"></div>
 <h1 style="text-align: center; margin: 30px;">عدد التلاميذ المسجلين {{students.count}} </h1>
-
+</div>
 {% for student in students %}
 
 
@@ -32,29 +35,33 @@
   position: relative;
   margin-right: 70%;
   padding: 10px;
-  background-color: blanchedalmond;
+  /* background-color: blanchedalmond; */
   text-align: center;
   left: 80px;
   bottom: -20px;
   position: fixed;
   position: absolute;
   top: 65px;
+  padding-left: 10;
 }
 
 </style>
+<div class="container">
+  <div class="p-5">
 <div class="parantes" style="width: 30px;">
 <div class="div">
-<div class="container">
+
     <div class="col">
-    <div class="my">
-<div class="dropdown" style="padding-bottom: 20px;">
+    <div class="my col-xs mt-5">
+<div class="dropdown mt-5 mr-5">
   <form method="get">
   {{myfilter.form}}
-    <input type="submit" value="بحث " class="btn btn-outline-success my-2 my-sm-0">
+    <input type="submit" value="بحث " class="btn btn-outline-success my-2 my-sm-0 mt-3">
     </form>
 </div>
    </div>
    </div>
+</div>
 </div>
 </div>
 </div>

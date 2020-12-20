@@ -14,6 +14,7 @@
             margin-top: 208px;
             text-align: center;
             margin-left: 750px;
+            float: left;
         }
 
         .name {
@@ -24,8 +25,9 @@
 
         #class {
             position: absolute;
-            left: 550px;
+            left: 360px;
             top: 200px;
+            right: 350px;
         }
 
         .class {
@@ -37,7 +39,7 @@
 
         .mtm {
             position: absolute;
-            left: 0px;
+            left: 70px;
             top: 0px;
             right: 70px;
         }
@@ -51,6 +53,7 @@
         
         
     </style>
+
 <div class="container ke">
     <div class="m">
         <h1 class="t">مبروك</h2><h2 class="r">النجاح</h1>
@@ -62,13 +65,13 @@
 
         <div class="mtm container">
             <div class="kk">
-        <h3 id="name">الاسم {{shahada.name_name}} </h3>
+        <h4 id="name">الاسم {{shahada.name_name}} </h4>
 
         <!-- <h3 class="class" style="margin-right: 80; right: 300px;">الفصل:  {{shahada.clas}}</h3> -->
-        <h3 id="class">الفصل {{shahada.clas}}</h3>
-        </div>
-        <div class="re"><h4 id="am" style="position: absolute;top: 100px;">التقدير العام: ممتاز</h4></div>
+        <h4 id="class">الفصل {{shahada.clas}}</h4>
         
+        <div class="re"><h4 id="am" style="position: absolute;top: 199px; left: 230px;">التقدير العام: ممتاز</h4></div>
+    </div>
             </div>
         <table border="5" align="center" width="200" height="30px">
             <caption></caption>
@@ -126,6 +129,7 @@
     </div>
     </div>
 </div>
+
 {% endfor %}
 
 {% endblock body %}

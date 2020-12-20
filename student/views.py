@@ -6,6 +6,8 @@ from django.db.models import Sum
 from .filters import filter, mybfilter
 from django.contrib.auth.decorators import login_required
 from daragat.models import daragat
+#from . forms import Absence
+from . import models
 # Create your views here.
 #@login_required
 def all_student(request):
@@ -35,7 +37,7 @@ def rebh(request):
     myrateb = rateb.objects.aggregate(Sum('yuor_rateb'))
     ratebs = myrateb['yuor_rateb__sum'] * 3
     remain = paid['amount_paid__sum'] - masrof['price_masrofat__sum']
-    rebh = remain - new
+    rebh = remain - new - ratebs
     return render(request, 'student/hasel.html', {'hasel':rebh, 'ward':paids, 'sadr':masrofs, 'bus':new, 'bake':bakes, 'reteb':ratebs})
 
 def employees(request):
@@ -49,13 +51,18 @@ def employees_one(request, id):
     return render(request, 'student/one_employees.html', context)
 
 def alkeyab(request):
-    khaeb = Absence.objects.all()
+    khaeb = Absence.objects.order_by('-time')
     myfilter = mybfilter(request.GET, queryset=khaeb)
     khaeb = myfilter.qs
+    #myv = Absence.the_Absence()
     context = {
         'all_keyab':khaeb, 'kaeb_filter':myfilter
     }
     return render(request, 'student/khaeb.html', context)
+
+def myfun(request):
+    khaebs = Absence.objects.order_by('-time')
+    return render(request, 'student/kjh.html', {'myf':khaebs})
 
 def my(request, id):
     shahada_one = daragat.objects.get(id=id)
@@ -63,3 +70,20 @@ def my(request, id):
         'shahada':shahada_one
     }
     return render(request, 'darajat/shahada.html', context)
+# def register(request):
+#     form=Absence(request.POST or None )
+#     obj=models.Absence()
+#     if form.is_valid():
+#         obj.name_student=form.cleaned_data['name_student']
+#         obj.date=form.cleaned_data['date']
+#         obj.time=form.cleaned_data['time']
+#         obj.Excuse=form.cleaned_data['Excuse']
+#         obj.Reason=form.cleaned_data['Reason']
+#         obj.save()
+        
+        
+#     return render(request,'student/test.html',{'form':form})
+
+
+def talemat(request):
+    return render(request, 'darajat/talemat.html')    

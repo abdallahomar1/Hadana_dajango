@@ -5,10 +5,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -16,10 +13,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -27,10 +21,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -38,10 +29,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -49,10 +37,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -60,10 +45,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -71,10 +53,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -82,10 +61,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -93,10 +69,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -104,10 +77,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -115,21 +85,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -137,10 +93,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -148,10 +101,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -159,10 +109,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -170,10 +117,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -181,10 +125,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -192,10 +133,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -203,10 +141,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -214,10 +149,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -225,10 +157,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -236,10 +165,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -247,10 +173,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -258,10 +181,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -269,10 +189,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -280,10 +197,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -291,10 +205,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -302,10 +213,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -313,10 +221,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -324,10 +229,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -335,10 +237,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "migrations",
@@ -346,10 +245,7 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "models",
@@ -357,10 +253,15 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
     },
     {
         "label": "models",
@@ -368,10 +269,15 @@
         "description": "django.db",
         "isExtraImport": true,
         "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
     },
     {
         "label": "django.db.models.deletion",
@@ -380,10 +286,7 @@
         "importPath": "django.db.models.deletion",
         "description": "django.db.models.deletion",
         "detail": "django.db.models.deletion",
-        "documentation": {
-            "value": "\n```python\nimport django.db.models.deletion\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "admin",
@@ -391,10 +294,7 @@
         "description": "django.contrib",
         "isExtraImport": true,
         "detail": "django.contrib",
-        "documentation": {
-            "value": "\n```python\nimport django.contrib\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "admin",
@@ -402,10 +302,7 @@
         "description": "django.contrib",
         "isExtraImport": true,
         "detail": "django.contrib",
-        "documentation": {
-            "value": "\n```python\nimport django.contrib\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "admin",
@@ -413,21 +310,23 @@
         "description": "django.contrib",
         "isExtraImport": true,
         "detail": "django.contrib",
-        "documentation": {
-            "value": "\n```python\nimport django.contrib\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
+        "label": "ImportExportModelAdmin",
+        "importPath": "import_export.admin",
+        "description": "import_export.admin",
         "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {
-            "value": "\n```python\nimport django.contrib\n```\n",
-            "supportThemeIcons": false
-        }
+        "detail": "import_export.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ImportExportModelAdmin",
+        "importPath": "import_export.admin",
+        "description": "import_export.admin",
+        "isExtraImport": true,
+        "detail": "import_export.admin",
+        "documentation": {}
     },
     {
         "label": "AppConfig",
@@ -435,10 +334,7 @@
         "description": "django.apps",
         "isExtraImport": true,
         "detail": "django.apps",
-        "documentation": {
-            "value": "\n```python\nimport django.apps\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "AppConfig",
@@ -446,21 +342,7 @@
         "description": "django.apps",
         "isExtraImport": true,
         "detail": "django.apps",
-        "documentation": {
-            "value": "\n```python\nimport django.apps\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
-        "isExtraImport": true,
-        "detail": "django.apps",
-        "documentation": {
-            "value": "\n```python\nimport django.apps\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "django_filters",
@@ -469,10 +351,7 @@
         "importPath": "django_filters",
         "description": "django_filters",
         "detail": "django_filters",
-        "documentation": {
-            "value": "\n```python\nimport django_filters\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "ugettext_lazy",
@@ -480,10 +359,7 @@
         "description": "django.utils.translation",
         "isExtraImport": true,
         "detail": "django.utils.translation",
-        "documentation": {
-            "value": "\n```python\nimport django.utils.translation\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "ugettext_lazy",
@@ -491,10 +367,7 @@
         "description": "django.utils.translation",
         "isExtraImport": true,
         "detail": "django.utils.translation",
-        "documentation": {
-            "value": "\n```python\nimport django.utils.translation\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "TestCase",
@@ -502,10 +375,7 @@
         "description": "django.test",
         "isExtraImport": true,
         "detail": "django.test",
-        "documentation": {
-            "value": "\n```python\nimport django.test\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "TestCase",
@@ -513,21 +383,7 @@
         "description": "django.test",
         "isExtraImport": true,
         "detail": "django.test",
-        "documentation": {
-            "value": "\n```python\nimport django.test\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "TestCase",
-        "importPath": "django.test",
-        "description": "django.test",
-        "isExtraImport": true,
-        "detail": "django.test",
-        "documentation": {
-            "value": "\n```python\nimport django.test\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "path",
@@ -535,10 +391,7 @@
         "description": "django.urls",
         "isExtraImport": true,
         "detail": "django.urls",
-        "documentation": {
-            "value": "\n```python\nimport django.urls\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "path",
@@ -546,10 +399,7 @@
         "description": "django.urls",
         "isExtraImport": true,
         "detail": "django.urls",
-        "documentation": {
-            "value": "\n```python\nimport django.urls\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "include",
@@ -557,10 +407,7 @@
         "description": "django.urls",
         "isExtraImport": true,
         "detail": "django.urls",
-        "documentation": {
-            "value": "\n```python\nimport django.urls\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "path",
@@ -568,21 +415,7 @@
         "description": "django.urls",
         "isExtraImport": true,
         "detail": "django.urls",
-        "documentation": {
-            "value": "\n```python\nimport django.urls\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "path",
-        "importPath": "django.urls",
-        "description": "django.urls",
-        "isExtraImport": true,
-        "detail": "django.urls",
-        "documentation": {
-            "value": "\n```python\nimport django.urls\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "render",
@@ -590,10 +423,7 @@
         "description": "django.shortcuts",
         "isExtraImport": true,
         "detail": "django.shortcuts",
-        "documentation": {
-            "value": "\n```python\nimport django.shortcuts\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "render",
@@ -601,21 +431,7 @@
         "description": "django.shortcuts",
         "isExtraImport": true,
         "detail": "django.shortcuts",
-        "documentation": {
-            "value": "\n```python\nimport django.shortcuts\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "render",
-        "importPath": "django.shortcuts",
-        "description": "django.shortcuts",
-        "isExtraImport": true,
-        "detail": "django.shortcuts",
-        "documentation": {
-            "value": "\n```python\nimport django.shortcuts\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "filter",
@@ -623,10 +439,7 @@
         "description": "daragat.filters",
         "isExtraImport": true,
         "detail": "daragat.filters",
-        "documentation": {
-            "value": "\n```python\nimport daragat.filters\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "login_required",
@@ -634,10 +447,7 @@
         "description": "django.contrib.auth.decorators",
         "isExtraImport": true,
         "detail": "django.contrib.auth.decorators",
-        "documentation": {
-            "value": "\n```python\nimport django.contrib.auth.decorators\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "login_required",
@@ -645,10 +455,7 @@
         "description": "django.contrib.auth.decorators",
         "isExtraImport": true,
         "detail": "django.contrib.auth.decorators",
-        "documentation": {
-            "value": "\n```python\nimport django.contrib.auth.decorators\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "DetailView",
@@ -656,10 +463,7 @@
         "description": "django.views.generic",
         "isExtraImport": true,
         "detail": "django.views.generic",
-        "documentation": {
-            "value": "\n```python\nimport django.views.generic\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "os",
@@ -668,10 +472,7 @@
         "importPath": "os",
         "description": "os",
         "detail": "os",
-        "documentation": {
-            "value": "\n```python\nimport os\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "get_asgi_application",
@@ -679,10 +480,7 @@
         "description": "django.core.asgi",
         "isExtraImport": true,
         "detail": "django.core.asgi",
-        "documentation": {
-            "value": "\n```python\nimport django.core.asgi\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Path",
@@ -690,10 +488,7 @@
         "description": "pathlib",
         "isExtraImport": true,
         "detail": "pathlib",
-        "documentation": {
-            "value": "\n```python\nimport pathlib\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "settings",
@@ -701,10 +496,7 @@
         "description": "django.conf",
         "isExtraImport": true,
         "detail": "django.conf",
-        "documentation": {
-            "value": "\n```python\nimport django.conf\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "static",
@@ -712,21 +504,7 @@
         "description": "django.conf.urls.static",
         "isExtraImport": true,
         "detail": "django.conf.urls.static",
-        "documentation": {
-            "value": "\n```python\nimport django.conf.urls.static\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "views",
-        "importPath": "shahada",
-        "description": "shahada",
-        "isExtraImport": true,
-        "detail": "shahada",
-        "documentation": {
-            "value": "\n```python\nimport shahada\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "get_wsgi_application",
@@ -734,43 +512,7 @@
         "description": "django.core.wsgi",
         "isExtraImport": true,
         "detail": "django.core.wsgi",
-        "documentation": {
-            "value": "\n```python\nimport django.core.wsgi\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "daragat",
-        "importPath": "daragat.models",
-        "description": "daragat.models",
-        "isExtraImport": true,
-        "detail": "daragat.models",
-        "documentation": {
-            "value": "\n```python\nimport daragat.models\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "daragat",
-        "importPath": "daragat.models",
-        "description": "daragat.models",
-        "isExtraImport": true,
-        "detail": "daragat.models",
-        "documentation": {
-            "value": "\n```python\nimport daragat.models\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "daragat",
-        "importPath": "daragat.models",
-        "description": "daragat.models",
-        "isExtraImport": true,
-        "detail": "daragat.models",
-        "documentation": {
-            "value": "\n```python\nimport daragat.models\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Student",
@@ -778,10 +520,7 @@
         "description": "student.models",
         "isExtraImport": true,
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nimport student.models\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "classstudent",
@@ -789,10 +528,7 @@
         "description": "student.models",
         "isExtraImport": true,
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nimport student.models\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "masrofat",
@@ -800,10 +536,7 @@
         "description": "student.models",
         "isExtraImport": true,
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nimport student.models\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Category_masrof",
@@ -811,10 +544,7 @@
         "description": "student.models",
         "isExtraImport": true,
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nimport student.models\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "mawad",
@@ -822,10 +552,7 @@
         "description": "student.models",
         "isExtraImport": true,
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nimport student.models\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Absence",
@@ -833,10 +560,7 @@
         "description": "student.models",
         "isExtraImport": true,
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nimport student.models\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "hafela",
@@ -844,10 +568,7 @@
         "description": "student.models",
         "isExtraImport": true,
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nimport student.models\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "rateb",
@@ -855,10 +576,7 @@
         "description": "student.models",
         "isExtraImport": true,
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nimport student.models\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Absence",
@@ -866,21 +584,7 @@
         "description": "student.models",
         "isExtraImport": true,
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nimport student.models\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "ImportExportModelAdmin",
-        "importPath": "import_export.admin",
-        "description": "import_export.admin",
-        "isExtraImport": true,
-        "detail": "import_export.admin",
-        "documentation": {
-            "value": "\n```python\nimport import_export.admin\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "DjangoSuitConfig",
@@ -888,10 +592,7 @@
         "description": "suit.apps",
         "isExtraImport": true,
         "detail": "suit.apps",
-        "documentation": {
-            "value": "\n```python\nimport suit.apps\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "forms",
@@ -899,10 +600,31 @@
         "description": "django",
         "isExtraImport": true,
         "detail": "django",
-        "documentation": {
-            "value": "\n```python\nimport django\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "daragat",
+        "importPath": "daragat.models",
+        "description": "daragat.models",
+        "isExtraImport": true,
+        "detail": "daragat.models",
+        "documentation": {}
+    },
+    {
+        "label": "daragat",
+        "importPath": "daragat.models",
+        "description": "daragat.models",
+        "isExtraImport": true,
+        "detail": "daragat.models",
+        "documentation": {}
     },
     {
         "label": "Sum",
@@ -910,10 +632,7 @@
         "description": "django.db.models",
         "isExtraImport": true,
         "detail": "django.db.models",
-        "documentation": {
-            "value": "\n```python\nimport django.db.models\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "sys",
@@ -922,10 +641,7 @@
         "importPath": "sys",
         "description": "sys",
         "detail": "sys",
-        "documentation": {
-            "value": "\n```python\nimport sys\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -934,10 +650,7 @@
         "description": "daragat.migrations.0001_initial",
         "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('student', '0005_remove_hafela_bus_student'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='daragat',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
         "detail": "daragat.migrations.0001_initial",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('student', '0005_remove_hafela_bus_student'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='daragat',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -946,10 +659,7 @@
         "description": "daragat.migrations.0002_remove_daragat_kind",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='daragat',\n            name='kind',\n        ),\n    ]",
         "detail": "daragat.migrations.0002_remove_daragat_kind",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.migrations.0002_remove_daragat_kind import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='daragat',\n            name='kind',\n        ),\n    ]\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -958,10 +668,7 @@
         "description": "daragat.migrations.0003_remove_daragat_name_name",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0002_remove_daragat_kind'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='daragat',\n            name='name_name',\n        ),\n    ]",
         "detail": "daragat.migrations.0003_remove_daragat_name_name",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.migrations.0003_remove_daragat_name_name import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0002_remove_daragat_kind'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='daragat',\n            name='name_name',\n        ),\n    ]\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -970,10 +677,7 @@
         "description": "daragat.migrations.0004_daragat_kind",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0003_remove_daragat_name_name'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='daragat',\n            name='kind',\n            field=models.CharField(choices=[('شهادة نصف العام', 'شهادة نصف العام'), ('شهادة نهاية العام', 'شهادة نهاية العام')], default='', max_length=50, verbose_name='نوع الهادة'),\n            preserve_default=False,",
         "detail": "daragat.migrations.0004_daragat_kind",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.migrations.0004_daragat_kind import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0003_remove_daragat_name_name'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='daragat',\n            name='kind',\n            field=models.CharField(choices=[('شهادة نصف العام', 'شهادة نصف العام'), ('شهادة نهاية العام', 'شهادة نهاية العام')], default='', max_length=50, verbose_name='نوع الهادة'),\n            preserve_default=False,\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -982,10 +686,7 @@
         "description": "daragat.migrations.0005_auto_20201130_1816",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0006_auto_20201130_1811'),\n        ('daragat', '0004_daragat_kind'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='daragat',\n            name='name_name',\n            field=models.ForeignKey(default='1', on_delete=django.db.models.deletion.CASCADE, to='student.student', verbose_name='الاسم'),",
         "detail": "daragat.migrations.0005_auto_20201130_1816",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.migrations.0005_auto_20201130_1816 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0006_auto_20201130_1811'),\n        ('daragat', '0004_daragat_kind'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='daragat',\n            name='name_name',\n            field=models.ForeignKey(default='1', on_delete=django.db.models.deletion.CASCADE, to='student.student', verbose_name='الاسم'),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -994,22 +695,25 @@
         "description": "daragat.migrations.0006_auto_20201201_1302",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0005_auto_20201130_1816'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='daragat',\n            name='kind',\n            field=models.CharField(choices=[('شهادة نصف العام', 'شهادة نصف العام'), ('شهادة نهاية العام', 'شهادة نهاية العام')], max_length=50, null=True, verbose_name='نوع الشهادة'),\n        ),",
         "detail": "daragat.migrations.0006_auto_20201201_1302",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.migrations.0006_auto_20201201_1302 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('daragat', '0005_auto_20201130_1816'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='daragat',\n            name='kind',\n            field=models.CharField(choices=[('شهادة نصف العام', 'شهادة نصف العام'), ('شهادة نهاية العام', 'شهادة نهاية العام')], max_length=50, null=True, verbose_name='نوع الشهادة'),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "custom",
         "kind": 6,
         "importPath": "daragat.admin",
         "description": "daragat.admin",
-        "peekOfCode": "class custom(admin.ModelAdmin):\n    #list_display = ('name_name')\n    list_filter = ('clas', 'kind')\n    search_fields = ('kind','name_name','clas')\n    list_per_page = 15\nadmin.site.register(daragat, custom)",
+        "peekOfCode": "class custom(admin.ModelAdmin):\n    #list_display = ('name_name')\n    list_filter = ('clas', 'kind')\n    search_fields = ('kind','name_name','clas')\n    list_per_page = 15\n# admin.site.register(daragat, custom)\n@admin.register(daragat)\nclass daragatImportEport(ImportExportModelAdmin):\n    pass",
         "detail": "daragat.admin",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.admin import custom\n```\n\n```python\n\n\n```\n\n```python\nclass custom(admin.ModelAdmin):\n    #list_display = ('name_name')\n    list_filter = ('clas', 'kind')\n    search_fields = ('kind','name_name','clas')\n    list_per_page = 15\nadmin.site.register(daragat, custom)\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
+    },
+    {
+        "label": "daragatImportEport",
+        "kind": 6,
+        "importPath": "daragat.admin",
+        "description": "daragat.admin",
+        "peekOfCode": "class daragatImportEport(ImportExportModelAdmin):\n    pass",
+        "detail": "daragat.admin",
+        "documentation": {}
     },
     {
         "label": "DaragatConfig",
@@ -1018,10 +722,7 @@
         "description": "daragat.apps",
         "peekOfCode": "class DaragatConfig(AppConfig):\n    name = 'daragat'",
         "detail": "daragat.apps",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.apps import DaragatConfig\n```\n\n```python\n\n\n```\n\n```python\nclass DaragatConfig(AppConfig):\n    name = 'daragat'\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "filter",
@@ -1030,10 +731,7 @@
         "description": "daragat.filters",
         "peekOfCode": "class filter(django_filters.FilterSet):\n    #name_name = django_filters.CharFilter(lookup_expr='icontains')\n    class Meta:\n        model = daragat\n        fields = ['kind', 'name_name', 'clas']",
         "detail": "daragat.filters",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.filters import filter\n```\n\n```python\n\n\n```\n\n```python\nclass filter(django_filters.FilterSet):\n    #name_name = django_filters.CharFilter(lookup_expr='icontains')\n    class Meta:\n        model = daragat\n        fields = ['kind', 'name_name', 'clas']\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "daragat",
@@ -1042,10 +740,7 @@
         "description": "daragat.models",
         "peekOfCode": "class daragat(models.Model):\n    kind = models.CharField(max_length=50, choices=shahada_type, verbose_name=(\"نوع الشهادة\"), null=True)\n    name_name = models.ForeignKey(\"student.Student\", on_delete=models.CASCADE, verbose_name=(\"الاسم\"))\n    clas = models.ForeignKey(\"student.classstudent\", on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\"))\n    kuran = models.IntegerField(default=40, verbose_name=(\"درجة القران الكريم\"))\n    khades = models.IntegerField(default=30, verbose_name=(\"درجة مادة الحديث\"))\n    arabek = models.IntegerField(default=30, verbose_name=(\"درجة نور البيان\"))\n    serah = models.IntegerField(default=20, verbose_name=(\"درجة مادة السيرة\"))\n    akeda = models.IntegerField(default=20, verbose_name=(\"درجة مادة العقيدة\"))\n    athkar = models.IntegerField(default=20, verbose_name=(\"درجة مادة الاذكار\")) ",
         "detail": "daragat.models",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.models import daragat\n```\n\n```python\n\n\n```\n\n```python\nclass daragat(models.Model):\n    kind = models.CharField(max_length=50, choices=shahada_type, verbose_name=(\"نوع الشهادة\"), null=True)\n    name_name = models.ForeignKey(\"student.Student\", on_delete=models.CASCADE, verbose_name=(\"الاسم\"))\n    clas = models.ForeignKey(\"student.classstudent\", on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\"))\n    kuran = models.IntegerField(default=40, verbose_name=(\"درجة القران الكريم\"))\n    khades = models.IntegerField(default=30, verbose_name=(\"درجة مادة الحديث\"))\n    arabek = models.IntegerField(default=30, verbose_name=(\"درجة نور البيان\"))\n    serah = models.IntegerField(default=20, verbose_name=(\"درجة مادة السيرة\"))\n    akeda = models.IntegerField(default=20, verbose_name=(\"درجة مادة العقيدة\"))\n    athkar = models.IntegerField(default=20, verbose_name=(\"درجة مادة الاذكار\")) \n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "shahada_type",
@@ -1054,10 +749,7 @@
         "description": "daragat.models",
         "peekOfCode": "shahada_type = (\n    ('شهادة نصف العام','شهادة نصف العام'),\n    ('شهادة نهاية العام','شهادة نهاية العام'),\n) \nclass daragat(models.Model):\n    kind = models.CharField(max_length=50, choices=shahada_type, verbose_name=(\"نوع الشهادة\"), null=True)\n    name_name = models.ForeignKey(\"student.Student\", on_delete=models.CASCADE, verbose_name=(\"الاسم\"))\n    clas = models.ForeignKey(\"student.classstudent\", on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\"))\n    kuran = models.IntegerField(default=40, verbose_name=(\"درجة القران الكريم\"))\n    khades = models.IntegerField(default=30, verbose_name=(\"درجة مادة الحديث\"))",
         "detail": "daragat.models",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.models import shahada_type\n```\n\n```python\n\n\n```\n\n```python\nshahada_type = (\n    ('شهادة نصف العام','شهادة نصف العام'),\n    ('شهادة نهاية العام','شهادة نهاية العام'),\n) \nclass daragat(models.Model):\n    kind = models.CharField(max_length=50, choices=shahada_type, verbose_name=(\"نوع الشهادة\"), null=True)\n    name_name = models.ForeignKey(\"student.Student\", on_delete=models.CASCADE, verbose_name=(\"الاسم\"))\n    clas = models.ForeignKey(\"student.classstudent\", on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\"))\n    kuran = models.IntegerField(default=40, verbose_name=(\"درجة القران الكريم\"))\n    khades = models.IntegerField(default=30, verbose_name=(\"درجة مادة الحديث\"))\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "app_name",
@@ -1066,10 +758,7 @@
         "description": "daragat.urls",
         "peekOfCode": "app_name = 'daragat'\nurlpatterns = [\n    path('<int:id>', views.my, name= 'my_view'),\n    path('', views.all_darajat),\n    path('all', views.all_shah),\n]",
         "detail": "daragat.urls",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.urls import app_name\n```\n\n```python\n\n\n```\n\n```python\napp_name = 'daragat'\nurlpatterns = [\n    path('<int:id>', views.my, name= 'my_view'),\n    path('', views.all_darajat),\n    path('all', views.all_shah),\n]\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "urlpatterns",
@@ -1078,10 +767,7 @@
         "description": "daragat.urls",
         "peekOfCode": "urlpatterns = [\n    path('<int:id>', views.my, name= 'my_view'),\n    path('', views.all_darajat),\n    path('all', views.all_shah),\n]",
         "detail": "daragat.urls",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('<int:id>', views.my, name= 'my_view'),\n    path('', views.all_darajat),\n    path('all', views.all_shah),\n]\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "all_darajat",
@@ -1090,10 +776,7 @@
         "description": "daragat.views",
         "peekOfCode": "def all_darajat(request):\n    all_darajat = daragat.objects.all()\n    myfilter = filter(request.GET, queryset=all_darajat)\n    all_darajat = myfilter.qs\n    return render(request, 'darajat/all_shahada.html', {'shahada':all_darajat, 'filter':myfilter})\ndef my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n    context = {\n        'shahada':shahada_one\n    }",
         "detail": "daragat.views",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.views import all_darajat\n```\n\n```python\n\n\n```\n\n```python\ndef all_darajat(request):\n    all_darajat = daragat.objects.all()\n    myfilter = filter(request.GET, queryset=all_darajat)\n    all_darajat = myfilter.qs\n    return render(request, 'darajat/all_shahada.html', {'shahada':all_darajat, 'filter':myfilter})\ndef my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n    context = {\n        'shahada':shahada_one\n    }\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "my",
@@ -1102,10 +785,7 @@
         "description": "daragat.views",
         "peekOfCode": "def my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n    context = {\n        'shahada':shahada_one\n    }\n    return render(request, 'darajat/shahada.html', context)\ndef all_shah(request):\n    all_darajat = daragat.objects.all()\n    return render(request, 'darajat/all_daragat.html', {'shahada':all_darajat})",
         "detail": "daragat.views",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.views import my\n```\n\n```python\n\n\n```\n\n```python\ndef my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n    context = {\n        'shahada':shahada_one\n    }\n    return render(request, 'darajat/shahada.html', context)\ndef all_shah(request):\n    all_darajat = daragat.objects.all()\n    return render(request, 'darajat/all_daragat.html', {'shahada':all_darajat})\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "all_shah",
@@ -1114,10 +794,7 @@
         "description": "daragat.views",
         "peekOfCode": "def all_shah(request):\n    all_darajat = daragat.objects.all()\n    return render(request, 'darajat/all_daragat.html', {'shahada':all_darajat})",
         "detail": "daragat.views",
-        "documentation": {
-            "value": "\n```python\nfrom daragat.views import all_shah\n```\n\n```python\n\n\n```\n\n```python\ndef all_shah(request):\n    all_darajat = daragat.objects.all()\n    return render(request, 'darajat/all_daragat.html', {'shahada':all_darajat})\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "application",
@@ -1126,10 +803,7 @@
         "description": "hadana.asgi",
         "peekOfCode": "application = get_asgi_application()",
         "detail": "hadana.asgi",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "BASE_DIR",
@@ -1138,10 +812,7 @@
         "description": "hadana.settings",
         "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '7p%%c!n3^^e4fqx(vqz%2-)%obg=#+i_uo@mao5t59lpm!^y@8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '7p%%c!n3^^e4fqx(vqz%2-)%obg=#+i_uo@mao5t59lpm!^y@8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "SECRET_KEY",
@@ -1150,10 +821,7 @@
         "description": "hadana.settings",
         "peekOfCode": "SECRET_KEY = '7p%%c!n3^^e4fqx(vqz%2-)%obg=#+i_uo@mao5t59lpm!^y@8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'student.app.SuitConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = '7p%%c!n3^^e4fqx(vqz%2-)%obg=#+i_uo@mao5t59lpm!^y@8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'student.app.SuitConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "DEBUG",
@@ -1162,10 +830,7 @@
         "description": "hadana.settings",
         "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'student.app.SuitConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'student.app.SuitConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "ALLOWED_HOSTS",
@@ -1174,10 +839,7 @@
         "description": "hadana.settings",
         "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'student.app.SuitConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'student.app.SuitConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "INSTALLED_APPS",
@@ -1186,10 +848,7 @@
         "description": "hadana.settings",
         "peekOfCode": "INSTALLED_APPS = [\n    'student.app.SuitConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'import_export',\n    \"bootstrap4\",",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'student.app.SuitConfig',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'import_export',\n    \"bootstrap4\",\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "MIDDLEWARE",
@@ -1198,10 +857,7 @@
         "description": "hadana.settings",
         "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'hadana.urls'",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'hadana.urls'\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "ROOT_URLCONF",
@@ -1210,10 +866,7 @@
         "description": "hadana.settings",
         "peekOfCode": "ROOT_URLCONF = 'hadana.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'hadana.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "TEMPLATES",
@@ -1222,10 +875,7 @@
         "description": "hadana.settings",
         "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "WSGI_APPLICATION",
@@ -1234,10 +884,7 @@
         "description": "hadana.settings",
         "peekOfCode": "WSGI_APPLICATION = 'hadana.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'hadana',\n        'USER': 'postgres',\n        'PASSWORD': '002233',\n        'HOST': '127.0.0.1',",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'hadana.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'hadana',\n        'USER': 'postgres',\n        'PASSWORD': '002233',\n        'HOST': '127.0.0.1',\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "DATABASES",
@@ -1246,10 +893,7 @@
         "description": "hadana.settings",
         "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'hadana',\n        'USER': 'postgres',\n        'PASSWORD': '002233',\n        'HOST': '127.0.0.1',\n        'PORT': '5432',\n    }\n}",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'hadana',\n        'USER': 'postgres',\n        'PASSWORD': '002233',\n        'HOST': '127.0.0.1',\n        'PORT': '5432',\n    }\n}\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "AUTH_PASSWORD_VALIDATORS",
@@ -1258,10 +902,7 @@
         "description": "hadana.settings",
         "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "LANGUAGE_CODE",
@@ -1270,10 +911,7 @@
         "description": "hadana.settings",
         "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "TIME_ZONE",
@@ -1282,10 +920,7 @@
         "description": "hadana.settings",
         "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "USE_I18N",
@@ -1294,10 +929,7 @@
         "description": "hadana.settings",
         "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n]",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n]\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "USE_L10N",
@@ -1306,10 +938,7 @@
         "description": "hadana.settings",
         "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n]\nMEDIA_URL = '/media/'",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n]\nMEDIA_URL = '/media/'\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "USE_TZ",
@@ -1318,10 +947,7 @@
         "description": "hadana.settings",
         "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n]\nMEDIA_URL = '/media/'\n#MEDIA_ROOT = BASE_DIR / \"static\"",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n]\nMEDIA_URL = '/media/'\n#MEDIA_ROOT = BASE_DIR / \"static\"\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "STATIC_URL",
@@ -1330,10 +956,7 @@
         "description": "hadana.settings",
         "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n]\nMEDIA_URL = '/media/'\n#MEDIA_ROOT = BASE_DIR / \"static\"",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n]\nMEDIA_URL = '/media/'\n#MEDIA_ROOT = BASE_DIR / \"static\"\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "STATICFILES_DIRS",
@@ -1342,10 +965,7 @@
         "description": "hadana.settings",
         "peekOfCode": "STATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n]\nMEDIA_URL = '/media/'\n#MEDIA_ROOT = BASE_DIR / \"static\"",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import STATICFILES_DIRS\n```\n\n```python\n\n\n```\n\n```python\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n    '/var/www/static/',\n]\nMEDIA_URL = '/media/'\n#MEDIA_ROOT = BASE_DIR / \"static\"\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "MEDIA_URL",
@@ -1354,10 +974,7 @@
         "description": "hadana.settings",
         "peekOfCode": "MEDIA_URL = '/media/'\n#MEDIA_ROOT = BASE_DIR / \"static\"",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import MEDIA_URL\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_URL = '/media/'\n#MEDIA_ROOT = BASE_DIR / \"static\"\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "#MEDIA_ROOT",
@@ -1366,22 +983,16 @@
         "description": "hadana.settings",
         "peekOfCode": "#MEDIA_ROOT = BASE_DIR / \"static\"",
         "detail": "hadana.settings",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.settings import #MEDIA_ROOT\n```\n\n```python\n\n\n```\n\n```python\n#MEDIA_ROOT = BASE_DIR / \"static\"\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "urlpatterns",
         "kind": 5,
         "importPath": "hadana.urls",
         "description": "hadana.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('student.urls', namespace='all_url')),\n    path('shahada/', include('daragat.urls', namespace='daragat')),\n    path('daraj/', include('shahada.urls', namespace='shahada')),\n    path('a<int:id>', views.my)\n]\nurlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)\nurlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('student.urls', namespace='all_url')),\n    path('shahada/', include('daragat.urls', namespace='daragat')),\n    # path('daraj/', include('shahada.urls', namespace='shahada')),\n    # path('a<int:id>', views.my)\n]\nurlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)\nurlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
         "detail": "hadana.urls",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('student.urls', namespace='all_url')),\n    path('shahada/', include('daragat.urls', namespace='daragat')),\n    path('daraj/', include('shahada.urls', namespace='shahada')),\n    path('a<int:id>', views.my)\n]\nurlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)\nurlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "application",
@@ -1390,58 +1001,7 @@
         "description": "hadana.wsgi",
         "peekOfCode": "application = get_wsgi_application()",
         "detail": "hadana.wsgi",
-        "documentation": {
-            "value": "\n```python\nfrom hadana.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "ShahadaConfig",
-        "kind": 6,
-        "importPath": "shahada.apps",
-        "description": "shahada.apps",
-        "peekOfCode": "class ShahadaConfig(AppConfig):\n    name = 'shahada'",
-        "detail": "shahada.apps",
-        "documentation": {
-            "value": "\n```python\nfrom shahada.apps import ShahadaConfig\n```\n\n```python\n\n\n```\n\n```python\nclass ShahadaConfig(AppConfig):\n    name = 'shahada'\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "app_name",
-        "kind": 5,
-        "importPath": "shahada.urls",
-        "description": "shahada.urls",
-        "peekOfCode": "app_name = 'student'\nurlpatterns = [\n    path('<int:id>', views.my, name='student_datail'),\n]",
-        "detail": "shahada.urls",
-        "documentation": {
-            "value": "\n```python\nfrom shahada.urls import app_name\n```\n\n```python\n\n\n```\n\n```python\napp_name = 'student'\nurlpatterns = [\n    path('<int:id>', views.my, name='student_datail'),\n]\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "urlpatterns",
-        "kind": 5,
-        "importPath": "shahada.urls",
-        "description": "shahada.urls",
-        "peekOfCode": "urlpatterns = [\n    path('<int:id>', views.my, name='student_datail'),\n]",
-        "detail": "shahada.urls",
-        "documentation": {
-            "value": "\n```python\nfrom shahada.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('<int:id>', views.my, name='student_datail'),\n]\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "my",
-        "kind": 2,
-        "importPath": "shahada.views",
-        "description": "shahada.views",
-        "peekOfCode": "def my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n    context = {\n        'shahada':shahada_one\n    }\n    return render(request, 'darajat/shahada.html', context)",
-        "detail": "shahada.views",
-        "documentation": {
-            "value": "\n```python\nfrom shahada.views import my\n```\n\n```python\n\n\n```\n\n```python\ndef my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n    context = {\n        'shahada':shahada_one\n    }\n    return render(request, 'darajat/shahada.html', context)\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1450,10 +1010,7 @@
         "description": "student.migrations.0001_initial",
         "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='buses',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50, verbose_name='اسم السائق')),",
         "detail": "student.migrations.0001_initial",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='buses',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50, verbose_name='اسم السائق')),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1462,10 +1019,7 @@
         "description": "student.migrations.0002_delete_buses",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0001_initial'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='buses',\n        ),\n    ]",
         "detail": "student.migrations.0002_delete_buses",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0002_delete_buses import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0001_initial'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='buses',\n        ),\n    ]\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1474,10 +1028,7 @@
         "description": "student.migrations.0003_hafela",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0002_delete_buses'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='hafela',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nem', models.CharField(max_length=50, verbose_name='اسم السائق')),",
         "detail": "student.migrations.0003_hafela",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0003_hafela import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0002_delete_buses'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='hafela',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nem', models.CharField(max_length=50, verbose_name='اسم السائق')),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1486,10 +1037,7 @@
         "description": "student.migrations.0004_hafela_bus_student",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0003_hafela'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='hafela',\n            name='bus_student',\n            field=models.ManyToManyField(to='student.Student', verbose_name='اطفال الحافلة'),\n        ),",
         "detail": "student.migrations.0004_hafela_bus_student",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0004_hafela_bus_student import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0003_hafela'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='hafela',\n            name='bus_student',\n            field=models.ManyToManyField(to='student.Student', verbose_name='اطفال الحافلة'),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1498,10 +1046,7 @@
         "description": "student.migrations.0005_remove_hafela_bus_student",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0004_hafela_bus_student'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='hafela',\n            name='bus_student',\n        ),\n    ]",
         "detail": "student.migrations.0005_remove_hafela_bus_student",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0005_remove_hafela_bus_student import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0004_hafela_bus_student'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='hafela',\n            name='bus_student',\n        ),\n    ]\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1510,10 +1055,7 @@
         "description": "student.migrations.0006_auto_20201130_1811",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0005_remove_hafela_bus_student'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='name',\n            field=models.CharField(max_length=50, null=True, verbose_name='الاسم'),\n        ),",
         "detail": "student.migrations.0006_auto_20201130_1811",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0006_auto_20201130_1811 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0005_remove_hafela_bus_student'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='name',\n            field=models.CharField(max_length=50, null=True, verbose_name='الاسم'),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1522,10 +1064,7 @@
         "description": "student.migrations.0007_auto_20201201_1328",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0006_auto_20201130_1811'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='hafela',\n            old_name='nem',\n            new_name='nam',\n        ),",
         "detail": "student.migrations.0007_auto_20201201_1328",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0007_auto_20201201_1328 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0006_auto_20201130_1811'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='hafela',\n            old_name='nem',\n            new_name='nam',\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1534,10 +1073,7 @@
         "description": "student.migrations.0008_student_bus",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0007_auto_20201201_1328'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='student',\n            name='bus',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='student.hafela', verbose_name='الحافلة'),\n        ),",
         "detail": "student.migrations.0008_student_bus",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0008_student_bus import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0007_auto_20201201_1328'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='student',\n            name='bus',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='student.hafela', verbose_name='الحافلة'),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1546,10 +1082,7 @@
         "description": "student.migrations.0009_auto_20201202_2039",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0008_student_bus'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='bus',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='student.hafela', verbose_name='الحافلة'),\n        ),",
         "detail": "student.migrations.0009_auto_20201202_2039",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0009_auto_20201202_2039 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0008_student_bus'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='bus',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='student.hafela', verbose_name='الحافلة'),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1558,10 +1091,7 @@
         "description": "student.migrations.0010_auto_20201203_1110",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0009_auto_20201202_2039'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='rateb',\n            options={'verbose_name': 'الرواتب', 'verbose_name_plural': 'الرواتب'},\n        ),\n        migrations.AddField(",
         "detail": "student.migrations.0010_auto_20201203_1110",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0010_auto_20201203_1110 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0009_auto_20201202_2039'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='rateb',\n            options={'verbose_name': 'الرواتب', 'verbose_name_plural': 'الرواتب'},\n        ),\n        migrations.AddField(\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1570,10 +1100,7 @@
         "description": "student.migrations.0011_auto_20201203_1134",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0010_auto_20201203_1110'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='numer',\n            field=models.TextField(default=0, max_length=100, verbose_name='الرقم القومي'),\n        ),",
         "detail": "student.migrations.0011_auto_20201203_1134",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0011_auto_20201203_1134 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0010_auto_20201203_1110'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='numer',\n            field=models.TextField(default=0, max_length=100, verbose_name='الرقم القومي'),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Migration",
@@ -1582,10 +1109,16 @@
         "description": "student.migrations.0012_auto_20201203_1137",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0011_auto_20201203_1134'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='numer',\n            field=models.CharField(default=0, max_length=50, verbose_name='الرقم القومي'),\n        ),",
         "detail": "student.migrations.0012_auto_20201203_1137",
-        "documentation": {
-            "value": "\n```python\nfrom student.migrations.0012_auto_20201203_1137 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0011_auto_20201203_1134'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='student',\n            name='numer',\n            field=models.CharField(default=0, max_length=50, verbose_name='الرقم القومي'),\n        ),\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "student.migrations.0013_auto_20201208_1659",
+        "description": "student.migrations.0013_auto_20201208_1659",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('student', '0012_auto_20201203_1137'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='absence',\n            name='time',\n            field=models.DateField(),\n        ),",
+        "detail": "student.migrations.0013_auto_20201208_1659",
+        "documentation": {}
     },
     {
         "label": "custom",
@@ -1594,10 +1127,7 @@
         "description": "student.admin",
         "peekOfCode": "class custom(admin.ModelAdmin):\n    #list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nclass class_s(admin.ModelAdmin):\n    list_display = ('name', 'classtecher')\n@admin.register(Student)",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import custom\n```\n\n```python\n\n\n```\n\n```python\nclass custom(admin.ModelAdmin):\n    #list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nclass class_s(admin.ModelAdmin):\n    list_display = ('name', 'classtecher')\n@admin.register(Student)\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "AbsenceAdmin",
@@ -1606,10 +1136,7 @@
         "description": "student.admin",
         "peekOfCode": "class AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nclass class_s(admin.ModelAdmin):\n    list_display = ('name', 'classtecher')\n@admin.register(Student)\nclass StudentImportEport(ImportExportModelAdmin):\n    pass\nadmin.site.register(Absence, AbsenceAdmin)\nadmin.site.register(classstudent, class_s)\n@admin.register(masrofat)",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import AbsenceAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nclass class_s(admin.ModelAdmin):\n    list_display = ('name', 'classtecher')\n@admin.register(Student)\nclass StudentImportEport(ImportExportModelAdmin):\n    pass\nadmin.site.register(Absence, AbsenceAdmin)\nadmin.site.register(classstudent, class_s)\n@admin.register(masrofat)\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "class_s",
@@ -1618,10 +1145,7 @@
         "description": "student.admin",
         "peekOfCode": "class class_s(admin.ModelAdmin):\n    list_display = ('name', 'classtecher')\n@admin.register(Student)\nclass StudentImportEport(ImportExportModelAdmin):\n    pass\nadmin.site.register(Absence, AbsenceAdmin)\nadmin.site.register(classstudent, class_s)\n@admin.register(masrofat)\nclass masrofatImportEport(ImportExportModelAdmin):\n    pass",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import class_s\n```\n\n```python\n\n\n```\n\n```python\nclass class_s(admin.ModelAdmin):\n    list_display = ('name', 'classtecher')\n@admin.register(Student)\nclass StudentImportEport(ImportExportModelAdmin):\n    pass\nadmin.site.register(Absence, AbsenceAdmin)\nadmin.site.register(classstudent, class_s)\n@admin.register(masrofat)\nclass masrofatImportEport(ImportExportModelAdmin):\n    pass\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "StudentImportEport",
@@ -1630,10 +1154,7 @@
         "description": "student.admin",
         "peekOfCode": "class StudentImportEport(ImportExportModelAdmin):\n    pass\nadmin.site.register(Absence, AbsenceAdmin)\nadmin.site.register(classstudent, class_s)\n@admin.register(masrofat)\nclass masrofatImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(Category_masrof)\nclass Category_masrofImportEport(ImportExportModelAdmin):\n    pass",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import StudentImportEport\n```\n\n```python\n\n\n```\n\n```python\nclass StudentImportEport(ImportExportModelAdmin):\n    pass\nadmin.site.register(Absence, AbsenceAdmin)\nadmin.site.register(classstudent, class_s)\n@admin.register(masrofat)\nclass masrofatImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(Category_masrof)\nclass Category_masrofImportEport(ImportExportModelAdmin):\n    pass\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "masrofatImportEport",
@@ -1642,10 +1163,7 @@
         "description": "student.admin",
         "peekOfCode": "class masrofatImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(Category_masrof)\nclass Category_masrofImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(mawad)\nclass mawadImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(hafela)\nclass hafelaImportEport(ImportExportModelAdmin):",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import masrofatImportEport\n```\n\n```python\n\n\n```\n\n```python\nclass masrofatImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(Category_masrof)\nclass Category_masrofImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(mawad)\nclass mawadImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(hafela)\nclass hafelaImportEport(ImportExportModelAdmin):\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Category_masrofImportEport",
@@ -1654,10 +1172,7 @@
         "description": "student.admin",
         "peekOfCode": "class Category_masrofImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(mawad)\nclass mawadImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(hafela)\nclass hafelaImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(rateb)\nclass ratebImportEport(ImportExportModelAdmin):",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import Category_masrofImportEport\n```\n\n```python\n\n\n```\n\n```python\nclass Category_masrofImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(mawad)\nclass mawadImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(hafela)\nclass hafelaImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(rateb)\nclass ratebImportEport(ImportExportModelAdmin):\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "mawadImportEport",
@@ -1666,10 +1181,7 @@
         "description": "student.admin",
         "peekOfCode": "class mawadImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(hafela)\nclass hafelaImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(rateb)\nclass ratebImportEport(ImportExportModelAdmin):\n    pass\nclass ratebImportEport(ImportExportModelAdmin):\n    list_display = ('name_techer')",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import mawadImportEport\n```\n\n```python\n\n\n```\n\n```python\nclass mawadImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(hafela)\nclass hafelaImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(rateb)\nclass ratebImportEport(ImportExportModelAdmin):\n    pass\nclass ratebImportEport(ImportExportModelAdmin):\n    list_display = ('name_techer')\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "hafelaImportEport",
@@ -1678,10 +1190,7 @@
         "description": "student.admin",
         "peekOfCode": "class hafelaImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(rateb)\nclass ratebImportEport(ImportExportModelAdmin):\n    pass\nclass ratebImportEport(ImportExportModelAdmin):\n    list_display = ('name_techer')",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import hafelaImportEport\n```\n\n```python\n\n\n```\n\n```python\nclass hafelaImportEport(ImportExportModelAdmin):\n    pass\n@admin.register(rateb)\nclass ratebImportEport(ImportExportModelAdmin):\n    pass\nclass ratebImportEport(ImportExportModelAdmin):\n    list_display = ('name_techer')\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "ratebImportEport",
@@ -1690,10 +1199,7 @@
         "description": "student.admin",
         "peekOfCode": "class ratebImportEport(ImportExportModelAdmin):\n    pass\nclass ratebImportEport(ImportExportModelAdmin):\n    list_display = ('name_techer')",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import ratebImportEport\n```\n\n```python\n\n\n```\n\n```python\nclass ratebImportEport(ImportExportModelAdmin):\n    pass\nclass ratebImportEport(ImportExportModelAdmin):\n    list_display = ('name_techer')\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "ratebImportEport",
@@ -1702,10 +1208,7 @@
         "description": "student.admin",
         "peekOfCode": "class ratebImportEport(ImportExportModelAdmin):\n    list_display = ('name_techer')",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import ratebImportEport\n```\n\n```python\n\n\n```\n\n```python\nclass ratebImportEport(ImportExportModelAdmin):\n    list_display = ('name_techer')\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "admin.site.site_header",
@@ -1714,10 +1217,7 @@
         "description": "student.admin",
         "peekOfCode": "admin.site.site_header = 'abdallah'\nadmin.site.site_title = 'admin panal'\nclass custom(admin.ModelAdmin):\n    #list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nclass class_s(admin.ModelAdmin):",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import admin.site.site_header\n```\n\n```python\n\n\n```\n\n```python\nadmin.site.site_header = 'abdallah'\nadmin.site.site_title = 'admin panal'\nclass custom(admin.ModelAdmin):\n    #list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nclass class_s(admin.ModelAdmin):\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "admin.site.site_title",
@@ -1726,10 +1226,7 @@
         "description": "student.admin",
         "peekOfCode": "admin.site.site_title = 'admin panal'\nclass custom(admin.ModelAdmin):\n    #list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nclass class_s(admin.ModelAdmin):\n    list_display = ('name', 'classtecher')",
         "detail": "student.admin",
-        "documentation": {
-            "value": "\n```python\nfrom student.admin import admin.site.site_title\n```\n\n```python\n\n\n```\n\n```python\nadmin.site.site_title = 'admin panal'\nclass custom(admin.ModelAdmin):\n    #list_display = ('name','yourclass','amount_paid', 'Remaining_amount')\n    list_filter = ('yourclass', 'Remaining_amount')\n    search_fields = ('name','yourclass','amount_paid', 'Remaining_amount', 'Age', 'phone_father')\n    list_per_page = 15\nclass AbsenceAdmin(admin.ModelAdmin):\n    list_display = ('name_student','name_class', 'Excuse')\nclass class_s(admin.ModelAdmin):\n    list_display = ('name', 'classtecher')\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "SuitConfig",
@@ -1738,10 +1235,7 @@
         "description": "student.app",
         "peekOfCode": "class SuitConfig(DjangoSuitConfig):\n    layout = 'horizontal' #vertical horizontal",
         "detail": "student.app",
-        "documentation": {
-            "value": "\n```python\nfrom student.app import SuitConfig\n```\n\n```python\n\n\n```\n\n```python\nclass SuitConfig(DjangoSuitConfig):\n    layout = 'horizontal' #vertical horizontal\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "StudentConfig",
@@ -1750,22 +1244,16 @@
         "description": "student.apps",
         "peekOfCode": "class StudentConfig(AppConfig):\n    name = 'student'",
         "detail": "student.apps",
-        "documentation": {
-            "value": "\n```python\nfrom student.apps import StudentConfig\n```\n\n```python\n\n\n```\n\n```python\nclass StudentConfig(AppConfig):\n    name = 'student'\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "filter",
         "kind": 6,
         "importPath": "student.filters",
         "description": "student.filters",
-        "peekOfCode": "class filter(django_filters.FilterSet):\n    name = django_filters.CharFilter(lookup_expr='icontains')\n    class Meta:\n        model = Student\n        fields = '__all__'\n        exclude = ['imag', 'Time_add', 'phone_father']\nclass mybfilter(django_filters.FilterSet):\n    #time = forms.CharField(widget=forms.DateInput(attrs={'type':'date'}))\n    Reason = django_filters.CharFilter(lookup_expr='icontains')\n    class Meta:",
+        "peekOfCode": "class filter(django_filters.FilterSet):\n    name = django_filters.CharFilter(lookup_expr='icontains')\n    class Meta:\n        model = Student\n        fields = '__all__'\n        exclude = ['imag', 'Time_add', 'phone_father', 'numer']\nclass mybfilter(django_filters.FilterSet):\n    #time = forms.CharField(widget=forms.DateInput(attrs={'type':'date'}))\n    Reason = django_filters.CharFilter(lookup_expr='icontains')\n    class Meta:",
         "detail": "student.filters",
-        "documentation": {
-            "value": "\n```python\nfrom student.filters import filter\n```\n\n```python\n\n\n```\n\n```python\nclass filter(django_filters.FilterSet):\n    name = django_filters.CharFilter(lookup_expr='icontains')\n    class Meta:\n        model = Student\n        fields = '__all__'\n        exclude = ['imag', 'Time_add', 'phone_father']\nclass mybfilter(django_filters.FilterSet):\n    #time = forms.CharField(widget=forms.DateInput(attrs={'type':'date'}))\n    Reason = django_filters.CharFilter(lookup_expr='icontains')\n    class Meta:\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "mybfilter",
@@ -1774,10 +1262,16 @@
         "description": "student.filters",
         "peekOfCode": "class mybfilter(django_filters.FilterSet):\n    #time = forms.CharField(widget=forms.DateInput(attrs={'type':'date'}))\n    Reason = django_filters.CharFilter(lookup_expr='icontains')\n    class Meta:\n        model = Absence\n        fields = '__all__'",
         "detail": "student.filters",
-        "documentation": {
-            "value": "\n```python\nfrom student.filters import mybfilter\n```\n\n```python\n\n\n```\n\n```python\nclass mybfilter(django_filters.FilterSet):\n    #time = forms.CharField(widget=forms.DateInput(attrs={'type':'date'}))\n    Reason = django_filters.CharFilter(lookup_expr='icontains')\n    class Meta:\n        model = Absence\n        fields = '__all__'\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
+    },
+    {
+        "label": "Absence",
+        "kind": 6,
+        "importPath": "student.forms",
+        "description": "student.forms",
+        "peekOfCode": "class Absence(forms.ModelForm):\n    date=forms.CharField(label='التاريح',widget=forms.DateInput(attrs={'class':'form-control w-25','type':\"date\"}))\n    time=forms.CharField(label='التوقيت',widget=forms.TimeInput(attrs={'class':'form-control w-25','type':\"time\",\n    'value':\"13:45:00\"}))\n    class Meta:\n        model=Absence\n        fields=('name_student','Excuse','Reason')\n        widgets={\n            'Reason':forms.Textarea(attrs={'class':'form-control rounded-0','rows':'4','style':'width:300px;'}) ,\n             }",
+        "detail": "student.forms",
+        "documentation": {}
     },
     {
         "label": "Student",
@@ -1786,10 +1280,7 @@
         "description": "student.models",
         "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"الاسم\"), null=True)\n    numer = models.CharField(verbose_name=(\"الرقم القومي\"), default=0, max_length=50)\n    Age = models.IntegerField(verbose_name=(\"السن\"))\n    amount_paid = models.IntegerField(verbose_name=(\"المبلغ المدفوع\"))\n    imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=(\"الصورة\"))\n    Remaining_amount = models.IntegerField(verbose_name=(\"المبلغ المتبقي\"))\n    Time_add = models.DateTimeField(auto_now=True, verbose_name=(\"وقت التقديم\"))\n    yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    phone_father = models.CharField(verbose_name=(\"رقم هاتف الوالد\"),max_length=50)",
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nfrom student.models import Student\n```\n\n```python\n\n\n```\n\n```python\nclass Student(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"الاسم\"), null=True)\n    numer = models.CharField(verbose_name=(\"الرقم القومي\"), default=0, max_length=50)\n    Age = models.IntegerField(verbose_name=(\"السن\"))\n    amount_paid = models.IntegerField(verbose_name=(\"المبلغ المدفوع\"))\n    imag = models.ImageField(upload_to='studentsimg/', default='noimg.png', verbose_name=(\"الصورة\"))\n    Remaining_amount = models.IntegerField(verbose_name=(\"المبلغ المتبقي\"))\n    Time_add = models.DateTimeField(auto_now=True, verbose_name=(\"وقت التقديم\"))\n    yourclass = models.ForeignKey('classstudent', on_delete=models.CASCADE, verbose_name=(\"الفصل\"))\n    phone_father = models.CharField(verbose_name=(\"رقم هاتف الوالد\"),max_length=50)\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "classstudent",
@@ -1798,10 +1289,7 @@
         "description": "student.models",
         "peekOfCode": "class classstudent(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم الفصل\"))\n    classtecher = models.CharField(max_length=50, verbose_name=(\"معلمة الفصل\"))\n    mada = models.ManyToManyField(\"mawad\", verbose_name=(\"المواد\"))\n    class Meta:\n        verbose_name = _(\"الفصول\")\n        verbose_name_plural = _(\"الفصول\")\n    def __str__(self):\n        return self.name\nclass masrofat(models.Model):",
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nfrom student.models import classstudent\n```\n\n```python\n\n\n```\n\n```python\nclass classstudent(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم الفصل\"))\n    classtecher = models.CharField(max_length=50, verbose_name=(\"معلمة الفصل\"))\n    mada = models.ManyToManyField(\"mawad\", verbose_name=(\"المواد\"))\n    class Meta:\n        verbose_name = _(\"الفصول\")\n        verbose_name_plural = _(\"الفصول\")\n    def __str__(self):\n        return self.name\nclass masrofat(models.Model):\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "masrofat",
@@ -1810,10 +1298,7 @@
         "description": "student.models",
         "peekOfCode": "class masrofat(models.Model):\n    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=(\"التصنيف\"))\n    des_masrofat =  models.CharField(max_length=95, verbose_name=(\"وصف المستلزم\"))\n    price_masrofat = models.IntegerField(verbose_name=(\"سعر المستلزم\"))\n    class Meta:\n        verbose_name = _(\"المصروفات\")\n        verbose_name_plural = _(\"المصروفات\")\n    def __str__(self):\n        return self.des_masrofat\nclass Category_masrof(models.Model):",
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nfrom student.models import masrofat\n```\n\n```python\n\n\n```\n\n```python\nclass masrofat(models.Model):\n    Category = models.ForeignKey('Category_masrof', on_delete=models.CASCADE, verbose_name=(\"التصنيف\"))\n    des_masrofat =  models.CharField(max_length=95, verbose_name=(\"وصف المستلزم\"))\n    price_masrofat = models.IntegerField(verbose_name=(\"سعر المستلزم\"))\n    class Meta:\n        verbose_name = _(\"المصروفات\")\n        verbose_name_plural = _(\"المصروفات\")\n    def __str__(self):\n        return self.des_masrofat\nclass Category_masrof(models.Model):\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Category_masrof",
@@ -1822,10 +1307,7 @@
         "description": "student.models",
         "peekOfCode": "class Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n    class Meta:\n        verbose_name = _(\"تصنيفات المصروفات\")\n        verbose_name_plural = _(\"تصنيفات المصروفات\")\n    def __str__(self):\n        return self.name\nclass mawad(models.Model):\n    name = models.CharField(max_length=50)\n    class Meta:",
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nfrom student.models import Category_masrof\n```\n\n```python\n\n\n```\n\n```python\nclass Category_masrof(models.Model):\n    name = models.CharField(max_length=50, verbose_name=(\"اسم التصنيف\"))\n    class Meta:\n        verbose_name = _(\"تصنيفات المصروفات\")\n        verbose_name_plural = _(\"تصنيفات المصروفات\")\n    def __str__(self):\n        return self.name\nclass mawad(models.Model):\n    name = models.CharField(max_length=50)\n    class Meta:\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "mawad",
@@ -1834,70 +1316,52 @@
         "description": "student.models",
         "peekOfCode": "class mawad(models.Model):\n    name = models.CharField(max_length=50)\n    class Meta:\n        verbose_name = _(\"المواد\")\n        verbose_name_plural = _(\"المواد\")\n    def __str__(self):\n        return self.name\nclass Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))",
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nfrom student.models import mawad\n```\n\n```python\n\n\n```\n\n```python\nclass mawad(models.Model):\n    name = models.CharField(max_length=50)\n    class Meta:\n        verbose_name = _(\"المواد\")\n        verbose_name_plural = _(\"المواد\")\n    def __str__(self):\n        return self.name\nclass Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "Absence",
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))\n    time = models.DateTimeField()  \n    Excuse = models.BooleanField(default=True, verbose_name=(\"بعذر ام لا\"))   \n    Reason = models.TextField(verbose_name=(\"العذر\"), null=True)\n    class Meta:\n        verbose_name = _(\"الغياب\")\n        verbose_name_plural = _(\"الغياب\")\nclass hafela(models.Model):",
+        "peekOfCode": "class Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))\n    time = models.DateField()  \n    Excuse = models.BooleanField(default=True, verbose_name=(\"بعذر ام لا\"))   \n    Reason = models.TextField(verbose_name=(\"العذر\"), null=True)\n    class Meta:\n        verbose_name = _(\"الغياب\")\n        verbose_name_plural = _(\"الغياب\")\nclass hafela(models.Model):",
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nfrom student.models import Absence\n```\n\n```python\n\n\n```\n\n```python\nclass Absence(models.Model):\n    name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم الفصل\")) \n    name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=(\"اسم الطالب\")) #(Student, verbose_name=(\"اسم الطالب\"))\n    time = models.DateTimeField()  \n    Excuse = models.BooleanField(default=True, verbose_name=(\"بعذر ام لا\"))   \n    Reason = models.TextField(verbose_name=(\"العذر\"), null=True)\n    class Meta:\n        verbose_name = _(\"الغياب\")\n        verbose_name_plural = _(\"الغياب\")\nclass hafela(models.Model):\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "hafela",
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class hafela(models.Model):\n    nam = models.CharField(max_length=50, verbose_name=(\"اسم السائق\"))\n    bus_id = models.CharField(max_length=50, verbose_name=(\"رقم الحافلة\"))\n    bus_price = models.IntegerField(verbose_name=(\"السعر الشهري\"))\n    #bus_student = models.ManyToManyField(Student, verbose_name=(\"اطفال الحافلة\"), null=True)\n    def __str__(self):\n        return self.nam\nclass rateb(models.Model):\n    name_techer = models.OneToOneField(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم المعلمة\"))\n    yuor_rateb = models.IntegerField(verbose_name=(\"الراتب\"))",
+        "peekOfCode": "class hafela(models.Model):\n    nam = models.CharField(max_length=50, verbose_name=(\"اسم السائق\"))\n    bus_id = models.CharField(max_length=50, verbose_name=(\"رقم الحافلة\"))\n    bus_price = models.IntegerField(verbose_name=(\"السعر الشهري\"))\n    #bus_student = models.ManyToManyField(Student, verbose_name=(\"اطفال الحافلة\"), null=True)\n    def __str__(self):\n        return self.nam\n    class Meta:\n        verbose_name = _(\"الحافلات\")\n        verbose_name_plural = _(\"الحافلات\")    ",
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nfrom student.models import hafela\n```\n\n```python\n\n\n```\n\n```python\nclass hafela(models.Model):\n    nam = models.CharField(max_length=50, verbose_name=(\"اسم السائق\"))\n    bus_id = models.CharField(max_length=50, verbose_name=(\"رقم الحافلة\"))\n    bus_price = models.IntegerField(verbose_name=(\"السعر الشهري\"))\n    #bus_student = models.ManyToManyField(Student, verbose_name=(\"اطفال الحافلة\"), null=True)\n    def __str__(self):\n        return self.nam\nclass rateb(models.Model):\n    name_techer = models.OneToOneField(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم المعلمة\"))\n    yuor_rateb = models.IntegerField(verbose_name=(\"الراتب\"))\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "rateb",
         "kind": 6,
         "importPath": "student.models",
         "description": "student.models",
-        "peekOfCode": "class rateb(models.Model):\n    name_techer = models.OneToOneField(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم المعلمة\"))\n    yuor_rateb = models.IntegerField(verbose_name=(\"الراتب\"))\n    class Meta:\n        verbose_name = _(\"الرواتب\")\n        verbose_name_plural = _(\"الرواتب\")",
+        "peekOfCode": "class rateb(models.Model):\n    name_techer = models.OneToOneField(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم المعلمة\"))\n    yuor_rateb = models.IntegerField(verbose_name=(\"الراتب\"))\n    def __str__(self):\n        return self.name_techer\n    class Meta:\n        verbose_name = _(\"الرواتب\")\n        verbose_name_plural = _(\"الرواتب\")",
         "detail": "student.models",
-        "documentation": {
-            "value": "\n```python\nfrom student.models import rateb\n```\n\n```python\n\n\n```\n\n```python\nclass rateb(models.Model):\n    name_techer = models.OneToOneField(classstudent, on_delete=models.CASCADE, verbose_name=(\"اسم المعلمة\"))\n    yuor_rateb = models.IntegerField(verbose_name=(\"الراتب\"))\n    class Meta:\n        verbose_name = _(\"الرواتب\")\n        verbose_name_plural = _(\"الرواتب\")\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "app_name",
         "kind": 5,
         "importPath": "student.urls",
         "description": "student.urls",
-        "peekOfCode": "app_name = 'student'\nurlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail'),\n    path('rebh', views.rebh),\n    path('employees', views.employees),\n    path('sadr/<int:id>', views.employees_one, name='employees'),\n    path('keyab', views.alkeyab),\n    path('myshahda/<int:id>', views.my, name='my'),\n]",
+        "peekOfCode": "app_name = 'student'\nurlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail'),\n    path('rebh', views.rebh),\n    path('employees', views.employees),\n    path('sadr/<int:id>', views.employees_one, name='employees'),\n    path('keyab', views.alkeyab),\n    path('keyabs', views.myfun),\n    path('myshahda/<int:id>', views.my, name='my'),",
         "detail": "student.urls",
-        "documentation": {
-            "value": "\n```python\nfrom student.urls import app_name\n```\n\n```python\n\n\n```\n\n```python\napp_name = 'student'\nurlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail'),\n    path('rebh', views.rebh),\n    path('employees', views.employees),\n    path('sadr/<int:id>', views.employees_one, name='employees'),\n    path('keyab', views.alkeyab),\n    path('myshahda/<int:id>', views.my, name='my'),\n]\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "urlpatterns",
         "kind": 5,
         "importPath": "student.urls",
         "description": "student.urls",
-        "peekOfCode": "urlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail'),\n    path('rebh', views.rebh),\n    path('employees', views.employees),\n    path('sadr/<int:id>', views.employees_one, name='employees'),\n    path('keyab', views.alkeyab),\n    path('myshahda/<int:id>', views.my, name='my'),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail'),\n    path('rebh', views.rebh),\n    path('employees', views.employees),\n    path('sadr/<int:id>', views.employees_one, name='employees'),\n    path('keyab', views.alkeyab),\n    path('keyabs', views.myfun),\n    path('myshahda/<int:id>', views.my, name='my'),\n    path('talemat', views.talemat),",
         "detail": "student.urls",
-        "documentation": {
-            "value": "\n```python\nfrom student.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('', views.all_student),\n    path('<int:id>', views.student_one, name='student_datail'),\n    path('rebh', views.rebh),\n    path('employees', views.employees),\n    path('sadr/<int:id>', views.employees_one, name='employees'),\n    path('keyab', views.alkeyab),\n    path('myshahda/<int:id>', views.my, name='my'),\n]\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "all_student",
@@ -1906,10 +1370,7 @@
         "description": "student.views",
         "peekOfCode": "def all_student(request):\n    student_list = Student.objects.all()\n    myfilter = filter(request.GET, queryset=student_list)\n    student_list = myfilter.qs\n    context = {'students':student_list, 'myfilter': myfilter}\n    return render(request, 'student/all_students.html', context)\ndef student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}",
         "detail": "student.views",
-        "documentation": {
-            "value": "\n```python\nfrom student.views import all_student\n```\n\n```python\n\n\n```\n\n```python\ndef all_student(request):\n    student_list = Student.objects.all()\n    myfilter = filter(request.GET, queryset=student_list)\n    student_list = myfilter.qs\n    context = {'students':student_list, 'myfilter': myfilter}\n    return render(request, 'student/all_students.html', context)\ndef student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "student_one",
@@ -1918,10 +1379,7 @@
         "description": "student.views",
         "peekOfCode": "def student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n    return render(request, 'student/student.html', context)\ndef rebh(request):\n    paid = Student.objects.aggregate(Sum('amount_paid'))\n    masrof = masrofat.objects.aggregate(Sum('price_masrofat'))\n    bake = Student.objects.aggregate(Sum('Remaining_amount'))\n    bus = buses.objects.aggregate(Sum('bus_price'))",
         "detail": "student.views",
-        "documentation": {
-            "value": "\n```python\nfrom student.views import student_one\n```\n\n```python\n\n\n```\n\n```python\ndef student_one(request, id):\n    student_one = Student.objects.get(id=id)\n    student_img = Student.objects.all()\n    context = {'onestudent':student_one, 'imagestudent':student_img}\n    return render(request, 'student/student.html', context)\ndef rebh(request):\n    paid = Student.objects.aggregate(Sum('amount_paid'))\n    masrof = masrofat.objects.aggregate(Sum('price_masrofat'))\n    bake = Student.objects.aggregate(Sum('Remaining_amount'))\n    bus = buses.objects.aggregate(Sum('bus_price'))\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "rebh",
@@ -1930,58 +1388,61 @@
         "description": "student.views",
         "peekOfCode": "def rebh(request):\n    paid = Student.objects.aggregate(Sum('amount_paid'))\n    masrof = masrofat.objects.aggregate(Sum('price_masrofat'))\n    bake = Student.objects.aggregate(Sum('Remaining_amount'))\n    bus = buses.objects.aggregate(Sum('bus_price'))\n    new = bus['bus_price__sum'] * 3\n    bakes = bake['Remaining_amount__sum'] * 1\n    masrofs = masrof['price_masrofat__sum'] * 1\n    paids = paid['amount_paid__sum'] * 1\n    myrateb = rateb.objects.aggregate(Sum('yuor_rateb'))",
         "detail": "student.views",
-        "documentation": {
-            "value": "\n```python\nfrom student.views import rebh\n```\n\n```python\n\n\n```\n\n```python\ndef rebh(request):\n    paid = Student.objects.aggregate(Sum('amount_paid'))\n    masrof = masrofat.objects.aggregate(Sum('price_masrofat'))\n    bake = Student.objects.aggregate(Sum('Remaining_amount'))\n    bus = buses.objects.aggregate(Sum('bus_price'))\n    new = bus['bus_price__sum'] * 3\n    bakes = bake['Remaining_amount__sum'] * 1\n    masrofs = masrof['price_masrofat__sum'] * 1\n    paids = paid['amount_paid__sum'] * 1\n    myrateb = rateb.objects.aggregate(Sum('yuor_rateb'))\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "employees",
         "kind": 2,
         "importPath": "student.views",
         "description": "student.views",
-        "peekOfCode": "def employees(request):\n        employees = masrofat.objects.all()\n        context = {'employees':employees}\n        return render(request, 'student/employees.html', context)\ndef employees_one(request, id):\n    employees_one = masrofat.objects.get(id=id)\n    context = {'one_masrof': employees_one}\n    return render(request, 'student/one_employees.html', context)\ndef alkeyab(request):\n    khaeb = Absence.objects.all()",
+        "peekOfCode": "def employees(request):\n        employees = masrofat.objects.all()\n        context = {'employees':employees}\n        return render(request, 'student/employees.html', context)\ndef employees_one(request, id):\n    employees_one = masrofat.objects.get(id=id)\n    context = {'one_masrof': employees_one}\n    return render(request, 'student/one_employees.html', context)\ndef alkeyab(request):\n    khaeb = Absence.objects.order_by('-time')",
         "detail": "student.views",
-        "documentation": {
-            "value": "\n```python\nfrom student.views import employees\n```\n\n```python\n\n\n```\n\n```python\ndef employees(request):\n        employees = masrofat.objects.all()\n        context = {'employees':employees}\n        return render(request, 'student/employees.html', context)\ndef employees_one(request, id):\n    employees_one = masrofat.objects.get(id=id)\n    context = {'one_masrof': employees_one}\n    return render(request, 'student/one_employees.html', context)\ndef alkeyab(request):\n    khaeb = Absence.objects.all()\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "employees_one",
         "kind": 2,
         "importPath": "student.views",
         "description": "student.views",
-        "peekOfCode": "def employees_one(request, id):\n    employees_one = masrofat.objects.get(id=id)\n    context = {'one_masrof': employees_one}\n    return render(request, 'student/one_employees.html', context)\ndef alkeyab(request):\n    khaeb = Absence.objects.all()\n    myfilter = mybfilter(request.GET, queryset=khaeb)\n    khaeb = myfilter.qs\n    context = {\n        'all_keyab':khaeb, 'kaeb_filter':myfilter",
+        "peekOfCode": "def employees_one(request, id):\n    employees_one = masrofat.objects.get(id=id)\n    context = {'one_masrof': employees_one}\n    return render(request, 'student/one_employees.html', context)\ndef alkeyab(request):\n    khaeb = Absence.objects.order_by('-time')\n    myfilter = mybfilter(request.GET, queryset=khaeb)\n    khaeb = myfilter.qs\n    #myv = Absence.the_Absence()\n    context = {",
         "detail": "student.views",
-        "documentation": {
-            "value": "\n```python\nfrom student.views import employees_one\n```\n\n```python\n\n\n```\n\n```python\ndef employees_one(request, id):\n    employees_one = masrofat.objects.get(id=id)\n    context = {'one_masrof': employees_one}\n    return render(request, 'student/one_employees.html', context)\ndef alkeyab(request):\n    khaeb = Absence.objects.all()\n    myfilter = mybfilter(request.GET, queryset=khaeb)\n    khaeb = myfilter.qs\n    context = {\n        'all_keyab':khaeb, 'kaeb_filter':myfilter\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     },
     {
         "label": "alkeyab",
         "kind": 2,
         "importPath": "student.views",
         "description": "student.views",
-        "peekOfCode": "def alkeyab(request):\n    khaeb = Absence.objects.all()\n    myfilter = mybfilter(request.GET, queryset=khaeb)\n    khaeb = myfilter.qs\n    context = {\n        'all_keyab':khaeb, 'kaeb_filter':myfilter\n    }\n    return render(request, 'student/khaeb.html', context)\ndef my(request, id):\n    shahada_one = daragat.objects.get(id=id)",
+        "peekOfCode": "def alkeyab(request):\n    khaeb = Absence.objects.order_by('-time')\n    myfilter = mybfilter(request.GET, queryset=khaeb)\n    khaeb = myfilter.qs\n    #myv = Absence.the_Absence()\n    context = {\n        'all_keyab':khaeb, 'kaeb_filter':myfilter\n    }\n    return render(request, 'student/khaeb.html', context)\ndef myfun(request):",
         "detail": "student.views",
-        "documentation": {
-            "value": "\n```python\nfrom student.views import alkeyab\n```\n\n```python\n\n\n```\n\n```python\ndef alkeyab(request):\n    khaeb = Absence.objects.all()\n    myfilter = mybfilter(request.GET, queryset=khaeb)\n    khaeb = myfilter.qs\n    context = {\n        'all_keyab':khaeb, 'kaeb_filter':myfilter\n    }\n    return render(request, 'student/khaeb.html', context)\ndef my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
+    },
+    {
+        "label": "myfun",
+        "kind": 2,
+        "importPath": "student.views",
+        "description": "student.views",
+        "peekOfCode": "def myfun(request):\n    khaebs = Absence.objects.order_by('-time')\n    return render(request, 'student/kjh.html', {'myf':khaebs})\ndef my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n    context = {\n        'shahada':shahada_one\n    }\n    return render(request, 'darajat/shahada.html', context)\n# def register(request):",
+        "detail": "student.views",
+        "documentation": {}
     },
     {
         "label": "my",
         "kind": 2,
         "importPath": "student.views",
         "description": "student.views",
-        "peekOfCode": "def my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n    context = {\n        'shahada':shahada_one\n    }\n    return render(request, 'darajat/shahada.html', context)",
+        "peekOfCode": "def my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n    context = {\n        'shahada':shahada_one\n    }\n    return render(request, 'darajat/shahada.html', context)\n# def register(request):\n#     form=Absence(request.POST or None )\n#     obj=models.Absence()\n#     if form.is_valid():",
         "detail": "student.views",
-        "documentation": {
-            "value": "\n```python\nfrom student.views import my\n```\n\n```python\n\n\n```\n\n```python\ndef my(request, id):\n    shahada_one = daragat.objects.get(id=id)\n    context = {\n        'shahada':shahada_one\n    }\n    return render(request, 'darajat/shahada.html', context)\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
+    },
+    {
+        "label": "talemat",
+        "kind": 2,
+        "importPath": "student.views",
+        "description": "student.views",
+        "peekOfCode": "def talemat(request):\n    return render(request, 'darajat/talemat.html')",
+        "detail": "student.views",
+        "documentation": {}
     },
     {
         "label": "main",
@@ -1990,9 +1451,6 @@
         "description": "manage",
         "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'hadana.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
         "detail": "manage",
-        "documentation": {
-            "value": "\n```python\nfrom manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'hadana.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
-            "supportThemeIcons": false
-        }
+        "documentation": {}
     }
 ]

@@ -4,7 +4,7 @@ from . models import daragat
 from django.contrib.auth.decorators import login_required
 from django.views.generic import DetailView
 # Create your views here.
-@login_required
+#@login_required
 def all_darajat(request):
     all_darajat = daragat.objects.all()
     myfilter = filter(request.GET, queryset=all_darajat)

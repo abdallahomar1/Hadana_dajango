@@ -6,16 +6,7 @@
     margin-right: 8%;
     margin-top: 20px;
 }
-.dropdown {
-  margin: 30px;
-  margin-right:40px;
-  background-color: #343a40;
-  margin: 22px;
-  color: #fff;
-}
-.myform {
-  padding: 20px;
-}
+
 label {
     display: block;
     font: 1rem 'Fira Sans', sans-serif;
@@ -28,16 +19,6 @@ label {
 </style>
 
 
-<div class="dropdown m-5">
-
-    <form method="get">
-      <div class="row col container myform">
-        {% csrf_token %}
-        {{kaeb_filter.form}}
-          <input type="submit" value="بحث " class="btn btn-outline-success my-2 my-sm-0">
-      </div>
-      </form>
-  </div>
   <!-- start tabal -->
   <div class="container">
   <table class="table">
@@ -51,15 +32,15 @@ label {
       </tr>
     </thead>
     
-    {% for kaeb in all_keyab %}
-    <!-- {{kaed.the_Absences}} -->
+    {% for my in myf %}
+    
     <tbody>
       <tr>
-        <th scope="row">{{kaeb.id}}</th>
-        <td>{{kaeb.name_student}}</td>
-        <td>{{kaeb.name_class}}</td>
-        <td>{{kaeb.time|date:'d M o'}}</td>
-        <td>{{kaeb.Excuse}}</td>
+        <th scope="row">{{my.id}}</th>
+        <td>{{my.name_student}}</td>
+        <td>{{my.name_class}}</td>
+        <td>{{my.time|date:'d M o'}}</td>
+        <td>{{my.Excuse}}</td>
         
       </tr>
     </tbody>

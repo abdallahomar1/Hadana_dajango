@@ -6,7 +6,7 @@ class filter(django_filters.FilterSet):
     class Meta:
         model = Student
         fields = '__all__'
-        exclude = ['imag', 'Time_add', 'phone_father']
+        exclude = ['imag', 'Time_add', 'phone_father', 'numer']
 
 class mybfilter(django_filters.FilterSet):
     #time = forms.CharField(widget=forms.DateInput(attrs={'type':'date'}))

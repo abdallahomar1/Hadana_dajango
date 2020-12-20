@@ -30,6 +30,7 @@ body {
     border: solid 6px blue;
     font-family: 'Tajawal', sans-serif;
     padding-bottom: 30px;
+    
 }
 
 .tx {
@@ -49,12 +50,12 @@ body {
     color: tomato;
 }
 
-    #name {
-        text-align: center;
-        top: 100px;
-        left: 840px;
-        font-family: 'Tajawal', sans-serif;
-    }
+#name {
+    text-align: center;
+    top: 100px;
+    left: 840px;
+    font-family: 'Tajawal', sans-serif;
+}
 
 .class {
     text-align: center;
@@ -72,7 +73,7 @@ body {
     padding-left: 0px;
     position: absolute;
     top: 100px;
-    left: 690px;
+    left: 600px;
     font-family: 'Tajawal', sans-serif;
 }
 .am {

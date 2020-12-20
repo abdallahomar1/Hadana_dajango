@@ -20,6 +20,9 @@ class daragat(models.Model):
     en = models.IntegerField(default=20, verbose_name=("درجة اللغة الانجليزية"))
     math = models.IntegerField(default=20, verbose_name=("درجة مادة الرياضيات"))
 
+    def __str__(self):
+        return self.name_name
+
     def majmoa(self):
         majemoa = self.kuran + self.khades + self.arabek + self.serah + self.akeda + self.athkar + self.adab + self.en + self.math
         return majemoa

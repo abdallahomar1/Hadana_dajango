@@ -70,7 +70,7 @@ class mawad(models.Model):
 class Absence(models.Model):
     name_class = models.ForeignKey(classstudent, on_delete=models.CASCADE, verbose_name=("اسم الفصل")) 
     name_student = models.ForeignKey(Student, on_delete=models.CASCADE, verbose_name=("اسم الطالب")) #(Student, verbose_name=("اسم الطالب"))
-    time = models.DateTimeField()  
+    time = models.DateField()  
     Excuse = models.BooleanField(default=True, verbose_name=("بعذر ام لا"))   
     Reason = models.TextField(verbose_name=("العذر"), null=True)
 
@@ -86,10 +86,16 @@ class hafela(models.Model):
 
     def __str__(self):
         return self.nam
+
+    class Meta:
+        verbose_name = _("الحافلات")
+        verbose_name_plural = _("الحافلات")    
 class rateb(models.Model):
     name_techer = models.OneToOneField(classstudent, on_delete=models.CASCADE, verbose_name=("اسم المعلمة"))
     yuor_rateb = models.IntegerField(verbose_name=("الراتب"))
 
+    def __str__(self):
+        return self.name_techer
     class Meta:
         verbose_name = _("الرواتب")
         verbose_name_plural = _("الرواتب")

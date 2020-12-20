@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     'student',
     'daragat',
     'django_filters',
-    'shahada',
 ]
 
 MIDDLEWARE = [

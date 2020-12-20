@@ -8,5 +8,7 @@ urlpatterns = [
     path('employees', views.employees),
     path('sadr/<int:id>', views.employees_one, name='employees'),
     path('keyab', views.alkeyab),
+    path('keyabs', views.myfun),
     path('myshahda/<int:id>', views.my, name='my'),
+    path('talemat', views.talemat),
 ]

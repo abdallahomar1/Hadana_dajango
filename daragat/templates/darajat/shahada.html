@@ -1,60 +1,64 @@
-{% extends 'student/base.html' %} {% block body %}
+{% extends 'student/base2.html' %}  {% block body %}
 {% load static %}
 
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="{% static 'css\my_style.css' %}">
-    <style>
-        #name {
-            margin-top: 208px;
-            text-align: center;
-            margin-left: 750px;
-        }
 
-        .name {
-            margin-top: -105px;
-            padding-right: 80px;
-            margin-right: 150px;
-        }
 
-        #class {
-            position: absolute;
-            left: 550px;
-            top: 200px;
-        }
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="{% static 'css\my_style.css' %}">
+<style>
+    .ke {
+        position: relative;
+    }
+    #name {
+        margin-top: 190px;
+        text-align: center;
+        margin-left: 760px;
+        float: left;
+    }
 
-        .class {
-            position: absolute;
-            left: 100px;
-            top: 0px;
-            right: 60px;
-        }
+   
 
-        .mtm {
-            position: absolute;
-            left: 30px;
-            top: 0px;
-        }
+    #class {
+        position: absolute;
+        left: 360px;
+        top: 180px;
+        right: 390px;
+    }
+
+    .mtm {
+        position: absolute;
+        left: 70px;
+        top: 0px;
+        right: 70px;
+    }
+
+    .kk {
+        position: absolute;
+        right: 80px;
+        top: -90px;
+    }
+
+    
+        
     </style>
+
 <div class="container ke">
     <div class="m">
+        <div>
         <h1 class="t">مبروك</h2><h2 class="r">النجاح</h1>
         <h4 class="tx">شكر وتهنئة</h4>
-        <!-- <h3 class="name">الاسم </h3>
-        <h3 id="name">عبدالله عمر احمد</h3>
-        <h3 class="class">:الفصل</h3>
-        <h3 id="class">تمهيدي</h3> -->
-
-        <h3 class="name" style="width: 0px; ">الاسم: </h3>
+    </div>
         <div class="mtm container">
-        <h3 id="name">الاسم {{shahada.name_name}} </h3>
+        <div class="kk">
+        <h4 id="name">الاسم: {{shahada.name_name}} </h4>
 
-        <!-- <h3 class="class" style="margin-right: 80; right: 300px;">الفصل:  {{shahada.clas}}</h3> -->
-        <h3 id="class">الفصل {{shahada.clas}}</h3>
-        </div>
-        <!-- <h4 class="am" s>التقدير العام:</h4> -->
-        <h4 id="am">التقدير العام: ممتاز</h4>
-
+         
+        <h4 id="class">الفصل: {{shahada.clas}}</h4>
+        
+        <div class="re"><h4 id="am" style="position: absolute;top: 180px; left: 140px;">التقدير العام: ممتاز</h4></div>
+    </div>
+            </div>
         <table border="5" align="center" width="200" height="30px">
             <caption></caption>
             <tr align="center">
@@ -111,5 +115,9 @@
     </div>
     </div>
 </div>
+
+
 {% endblock body %}
+
+
 

@@ -1,7 +1,13 @@
 {% extends 'student/base.html' %} {% block body %}
-
-<h1>معلومات الطالب</h1>
-<div id="all_students">
+<style>
+#all_students {
+  margin-left: 50%;
+  margin-right: 9%;
+  margin-top: 20px;
+}
+</style>
+<h1 style="text-align: center;">معلومات الطالب</h1>
+<div id="all_students" style="text-align: center;">
     <div class="alert alert-primary" role="alert">
         الاسم :{{onestudent.name}}
     </div>
@@ -27,7 +33,6 @@
         <img class="alert alert-dark" id="img" src="{{onestudent.imag.url}}">
     </div>
 </div>
-
 
 
 {% endblock body %}
